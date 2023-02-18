@@ -1,0 +1,841 @@
+Fecha,Equipo1,Score,Equipo2,Resultado,Goles_equipo1,Goles_equipo2,Diferencia_goles
+2022-05-22,Sevilla,1 - 0,Athletic,Ganó,1,0,1
+2022-05-15,Atlético,1 - 1,Sevilla,Empató,1,1,0
+2022-05-11,Sevilla,0 - 0,Mallorca,Empató,0,0,0
+2022-05-08,Villarreal,1 - 1,Sevilla,Empató,1,1,0
+2022-04-29,Sevilla,1 - 1,Cádiz,Empató,1,1,0
+2022-04-21,Levante,2 - 3,Sevilla,Ganó,2,3,1
+2022-04-17,Sevilla,2 - 3,Real Madrid,Perdió,2,3,1
+2022-04-08,Sevilla,4 - 2,Granada,Ganó,4,2,2
+2022-04-03,Barcelona,1 - 0,Sevilla,Perdió,1,0,1
+2022-03-20,Sevilla,0 - 0,R. Sociedad,Empató,0,0,0
+2022-03-13,Rayo Vallecano,1 - 1,Sevilla,Empató,1,1,0
+2022-03-04,Deportivo Alavés,0 - 0,Sevilla,Empató,0,0,0
+2022-02-27,Sevilla,2 - 1,Real Betis,Ganó,2,1,1
+2022-02-20,Espanyol,1 - 1,Sevilla,Empató,1,1,0
+2022-02-11,Sevilla,2 - 0,Elche,Ganó,2,0,2
+2022-02-05,Osasuna,0 - 0,Sevilla,Empató,0,0,0
+2022-01-22,Sevilla,2 - 2,Celta,Empató,2,2,0
+2022-01-19,Valencia,1 - 1,Sevilla,Empató,1,1,0
+2022-01-09,Sevilla,1 - 0,Getafe,Ganó,1,0,1
+2022-01-03,Cádiz,0 - 1,Sevilla,Ganó,0,1,1
+2021-12-21,Sevilla,1 - 1,Barcelona,Empató,1,1,0
+2021-12-18,Sevilla,2 - 1,Atlético,Ganó,2,1,1
+2021-12-11,Athletic,0 - 1,Sevilla,Ganó,0,1,1
+2021-12-04,Sevilla,1 - 0,Villarreal,Ganó,1,0,1
+2021-11-28,Real Madrid,2 - 1,Sevilla,Perdió,2,1,1
+2021-11-20,Sevilla,2 - 2,Deportivo Alavés,Empató,2,2,0
+2021-11-07,Real Betis,0 - 2,Sevilla,Ganó,0,2,2
+2021-10-30,Sevilla,2 - 0,Osasuna,Ganó,2,0,2
+2021-10-27,Mallorca,1 - 1,Sevilla,Empató,1,1,0
+2021-10-24,Sevilla,5 - 3,Levante,Ganó,5,3,2
+2021-10-17,Celta,0 - 1,Sevilla,Ganó,0,1,1
+2021-10-03,Granada,1 - 0,Sevilla,Perdió,1,0,1
+2021-09-25,Sevilla,2 - 0,Espanyol,Ganó,2,0,2
+2021-09-22,Sevilla,3 - 1,Valencia,Ganó,3,1,2
+2021-09-19,R. Sociedad,0 - 0,Sevilla,Empató,0,0,0
+2021-08-28,Elche,1 - 1,Sevilla,Empató,1,1,0
+2021-08-23,Getafe,0 - 1,Sevilla,Ganó,0,1,1
+2021-08-15,Sevilla,3 - 0,Rayo Vallecano,Ganó,3,0,3
+2021-05-23,Sevilla,1 - 0,Deportivo Alavés,Ganó,1,0,1
+2021-05-16,Villarreal,4 - 0,Sevilla,Perdió,4,0,4
+2021-05-12,Sevilla,1 - 0,Valencia,Ganó,1,0,1
+2021-05-09,Real Madrid,2 - 2,Sevilla,Empató,2,2,0
+2021-05-03,Sevilla,0 - 1,Athletic,Perdió,0,1,1
+2021-04-25,Sevilla,2 - 1,Granada,Ganó,2,1,1
+2021-04-21,Levante,0 - 1,Sevilla,Ganó,0,1,1
+2021-04-18,R. Sociedad,1 - 2,Sevilla,Ganó,1,2,1
+2021-04-12,Celta,3 - 4,Sevilla,Ganó,3,4,1
+2021-04-04,Sevilla,1 - 0,Atlético,Ganó,1,0,1
+2021-03-20,Real Valladolid,1 - 1,Sevilla,Empató,1,1,0
+2021-03-17,Sevilla,2 - 0,Elche,Ganó,2,0,2
+2021-03-14,Sevilla,1 - 0,Real Betis,Ganó,1,0,1
+2021-03-06,Elche,2 - 1,Sevilla,Perdió,2,1,1
+2021-02-27,Sevilla,0 - 2,Barcelona,Perdió,0,2,2
+2021-02-22,Osasuna,0 - 2,Sevilla,Ganó,0,2,2
+2021-02-13,Sevilla,1 - 0,Huesca,Ganó,1,0,1
+2021-02-06,Sevilla,3 - 0,Getafe,Ganó,3,0,3
+2021-01-30,Eibar,0 - 2,Sevilla,Ganó,0,2,2
+2021-01-23,Sevilla,3 - 0,Cádiz,Ganó,3,0,3
+2021-01-19,Deportivo Alavés,1 - 2,Sevilla,Ganó,1,2,1
+2021-01-12,Atlético,2 - 0,Sevilla,Perdió,2,0,2
+2021-01-09,Sevilla,3 - 2,R. Sociedad,Ganó,3,2,1
+2021-01-02,Real Betis,1 - 1,Sevilla,Empató,1,1,0
+2020-12-29,Sevilla,2 - 0,Villarreal,Ganó,2,0,2
+2020-12-22,Valencia,0 - 1,Sevilla,Ganó,0,1,1
+2020-12-19,Sevilla,1 - 1,Real Valladolid,Empató,1,1,0
+2020-12-12,Getafe,0 - 1,Sevilla,Ganó,0,1,1
+2020-12-05,Sevilla,0 - 1,Real Madrid,Perdió,0,1,1
+2020-11-28,Huesca,0 - 1,Sevilla,Ganó,0,1,1
+2020-11-21,Sevilla,4 - 2,Celta,Ganó,4,2,2
+2020-11-07,Sevilla,1 - 0,Osasuna,Ganó,1,0,1
+2020-10-31,Athletic,2 - 1,Sevilla,Perdió,2,1,1
+2020-10-24,Sevilla,0 - 1,Eibar,Perdió,0,1,1
+2020-10-17,Granada,1 - 0,Sevilla,Perdió,1,0,1
+2020-10-04,Barcelona,1 - 1,Sevilla,Empató,1,1,0
+2020-10-01,Sevilla,1 - 0,Levante,Ganó,1,0,1
+2020-09-27,Cádiz,1 - 3,Sevilla,Ganó,1,3,2
+2020-07-19,Sevilla,1 - 0,Valencia,Ganó,1,0,1
+2020-07-16,R. Sociedad,0 - 0,Sevilla,Empató,0,0,0
+2020-07-12,Sevilla,2 - 0,Mallorca,Ganó,2,0,2
+2020-07-09,Athletic,1 - 2,Sevilla,Ganó,1,2,1
+2020-07-06,Sevilla,1 - 0,Eibar,Ganó,1,0,1
+2020-06-30,Leganés,0 - 3,Sevilla,Ganó,0,3,3
+2020-06-26,Sevilla,1 - 1,Real Valladolid,Empató,1,1,0
+2020-06-22,Villarreal,2 - 2,Sevilla,Empató,2,2,0
+2020-06-19,Sevilla,0 - 0,Barcelona,Empató,0,0,0
+2020-06-15,Levante,1 - 1,Sevilla,Empató,1,1,0
+2020-06-11,Sevilla,2 - 0,Real Betis,Ganó,2,0,2
+2020-03-07,Atlético,2 - 2,Sevilla,Empató,2,2,0
+2020-03-01,Sevilla,3 - 2,Osasuna,Ganó,3,2,1
+2020-02-23,Getafe,0 - 3,Sevilla,Ganó,0,3,3
+2020-02-16,Sevilla,2 - 2,Espanyol,Empató,2,2,0
+2020-02-09,Celta,2 - 1,Sevilla,Perdió,2,1,1
+2020-02-02,Sevilla,1 - 1,Deportivo Alavés,Empató,1,1,0
+2020-01-25,Sevilla,2 - 0,Granada,Ganó,2,0,2
+2020-01-18,Real Madrid,2 - 1,Sevilla,Perdió,2,1,1
+2020-01-03,Sevilla,1 - 1,Athletic,Empató,1,1,0
+2019-12-21,Mallorca,0 - 2,Sevilla,Ganó,0,2,2
+2019-12-15,Sevilla,1 - 2,Villarreal,Perdió,1,2,1
+2019-12-08,Osasuna,1 - 1,Sevilla,Empató,1,1,0
+2019-12-01,Sevilla,1 - 0,Leganés,Ganó,1,0,1
+2019-11-24,Real Valladolid,0 - 1,Sevilla,Ganó,0,1,1
+2019-11-10,Real Betis,1 - 2,Sevilla,Ganó,1,2,1
+2019-11-02,Sevilla,1 - 1,Atlético,Empató,1,1,0
+2019-10-30,Valencia,1 - 1,Sevilla,Empató,1,1,0
+2019-10-27,Sevilla,2 - 0,Getafe,Ganó,2,0,2
+2019-10-20,Sevilla,1 - 0,Levante,Ganó,1,0,1
+2019-10-06,Barcelona,4 - 0,Sevilla,Perdió,4,0,4
+2019-09-29,Sevilla,3 - 2,R. Sociedad,Ganó,3,2,1
+2019-09-26,Eibar,3 - 2,Sevilla,Perdió,3,2,1
+2019-09-22,Sevilla,0 - 1,Real Madrid,Perdió,0,1,1
+2019-09-15,Deportivo Alavés,0 - 1,Sevilla,Ganó,0,1,1
+2019-08-30,Sevilla,1 - 1,Celta,Empató,1,1,0
+2019-08-23,Granada,0 - 1,Sevilla,Ganó,0,1,1
+2019-08-18,Espanyol,0 - 2,Sevilla,Ganó,0,2,2
+2019-05-18,Sevilla,2 - 0,Athletic,Ganó,2,0,2
+2019-05-12,Atlético,1 - 1,Sevilla,Empató,1,1,0
+2019-05-03,Sevilla,0 - 3,Leganés,Perdió,0,3,3
+2019-04-28,Girona,1 - 0,Sevilla,Perdió,1,0,1
+2019-04-25,Sevilla,5 - 0,Rayo Vallecano,Ganó,5,0,5
+2019-04-21,Getafe,3 - 0,Sevilla,Perdió,3,0,3
+2019-04-13,Sevilla,3 - 2,Real Betis,Ganó,3,2,1
+2019-04-07,Real Valladolid,0 - 2,Sevilla,Ganó,0,2,2
+2019-04-04,Sevilla,2 - 0,Deportivo Alavés,Ganó,2,0,2
+2019-03-31,Sevilla,0 - 1,Valencia,Perdió,0,1,1
+2019-03-17,Espanyol,0 - 1,Sevilla,Ganó,0,1,1
+2019-03-10,Sevilla,5 - 2,R. Sociedad,Ganó,5,2,3
+2019-03-02,Huesca,2 - 1,Sevilla,Perdió,2,1,1
+2019-02-23,Sevilla,2 - 4,Barcelona,Perdió,2,4,2
+2019-02-17,Villarreal,3 - 0,Sevilla,Perdió,3,0,3
+2019-02-10,Sevilla,2 - 2,Eibar,Empató,2,2,0
+2019-02-02,Celta,1 - 0,Sevilla,Perdió,1,0,1
+2019-01-26,Sevilla,5 - 0,Levante,Ganó,5,0,5
+2019-01-19,Real Madrid,2 - 0,Sevilla,Perdió,2,0,2
+2019-01-13,Athletic,2 - 0,Sevilla,Perdió,2,0,2
+2019-01-06,Sevilla,1 - 1,Atlético,Empató,1,1,0
+2018-12-23,Leganés,1 - 1,Sevilla,Empató,1,1,0
+2018-12-16,Sevilla,2 - 0,Girona,Ganó,2,0,2
+2018-12-08,Valencia,1 - 1,Sevilla,Empató,1,1,0
+2018-12-02,Deportivo Alavés,1 - 1,Sevilla,Empató,1,1,0
+2018-11-25,Sevilla,1 - 0,Real Valladolid,Ganó,1,0,1
+2018-11-11,Sevilla,2 - 1,Espanyol,Ganó,2,1,1
+2018-11-04,R. Sociedad,0 - 0,Sevilla,Empató,0,0,0
+2018-10-28,Sevilla,2 - 1,Huesca,Ganó,2,1,1
+2018-10-20,Barcelona,4 - 2,Sevilla,Perdió,4,2,2
+2018-10-07,Sevilla,2 - 1,Celta,Ganó,2,1,1
+2018-09-29,Eibar,1 - 3,Sevilla,Ganó,1,3,2
+2018-09-26,Sevilla,3 - 0,Real Madrid,Ganó,3,0,3
+2018-09-23,Levante,2 - 6,Sevilla,Ganó,2,6,4
+2018-09-16,Sevilla,0 - 2,Getafe,Perdió,0,2,2
+2018-09-02,Real Betis,1 - 0,Sevilla,Perdió,1,0,1
+2018-08-26,Sevilla,0 - 0,Villarreal,Empató,0,0,0
+2018-08-19,Rayo Vallecano,1 - 4,Sevilla,Ganó,1,4,3
+2018-05-19,Sevilla,1 - 0,Deportivo Alavés,Ganó,1,0,1
+2018-05-12,Real Betis,2 - 2,Sevilla,Empató,2,2,0
+2018-05-09,Sevilla,3 - 2,Real Madrid,Ganó,3,2,1
+2018-05-04,Sevilla,1 - 0,R. Sociedad,Ganó,1,0,1
+2018-04-27,Levante,2 - 1,Sevilla,Perdió,2,1,1
+2018-04-17,RC Deportivo,0 - 0,Sevilla,Empató,0,0,0
+2018-04-14,Sevilla,2 - 2,Villarreal,Empató,2,2,0
+2018-04-07,Celta,4 - 0,Sevilla,Perdió,4,0,4
+2018-03-31,Sevilla,2 - 2,Barcelona,Empató,2,2,0
+2018-03-18,Leganés,2 - 1,Sevilla,Perdió,2,1,1
+2018-03-10,Sevilla,0 - 2,Valencia,Perdió,0,2,2
+2018-03-03,Sevilla,2 - 0,Athletic,Ganó,2,0,2
+2018-02-28,Málaga,0 - 1,Sevilla,Ganó,0,1,1
+2018-02-25,Sevilla,2 - 5,Atlético,Perdió,2,5,3
+2018-02-17,Las Palmas,1 - 2,Sevilla,Ganó,1,2,1
+2018-02-11,Sevilla,1 - 0,Girona,Ganó,1,0,1
+2018-02-03,Eibar,5 - 1,Sevilla,Perdió,5,1,4
+2018-01-28,Sevilla,1 - 1,Getafe,Empató,1,1,0
+2018-01-20,Espanyol,0 - 3,Sevilla,Ganó,0,3,3
+2018-01-14,Deportivo Alavés,1 - 0,Sevilla,Perdió,1,0,1
+2018-01-06,Sevilla,3 - 5,Real Betis,Perdió,3,5,2
+2017-12-20,R. Sociedad,3 - 1,Sevilla,Perdió,3,1,2
+2017-12-15,Sevilla,0 - 0,Levante,Empató,0,0,0
+2017-12-09,Real Madrid,5 - 0,Sevilla,Perdió,5,0,5
+2017-12-02,Sevilla,2 - 0,RC Deportivo,Ganó,2,0,2
+2017-11-26,Villarreal,2 - 3,Sevilla,Ganó,2,3,1
+2017-11-18,Sevilla,2 - 1,Celta,Ganó,2,1,1
+2017-11-04,Barcelona,2 - 1,Sevilla,Perdió,2,1,1
+2017-10-28,Sevilla,2 - 1,Leganés,Ganó,2,1,1
+2017-10-21,Valencia,4 - 0,Sevilla,Perdió,4,0,4
+2017-10-14,Athletic,1 - 0,Sevilla,Perdió,1,0,1
+2017-09-30,Sevilla,2 - 0,Málaga,Ganó,2,0,2
+2017-09-23,Atlético,2 - 0,Sevilla,Perdió,2,0,2
+2017-09-20,Sevilla,1 - 0,Las Palmas,Ganó,1,0,1
+2017-09-17,Girona,0 - 1,Sevilla,Ganó,0,1,1
+2017-09-09,Sevilla,3 - 0,Eibar,Ganó,3,0,3
+2017-08-27,Getafe,0 - 1,Sevilla,Ganó,0,1,1
+2017-08-19,Sevilla,1 - 1,Espanyol,Empató,1,1,0
+2017-05-20,Sevilla,5 - 0,Osasuna,Ganó,5,0,5
+2017-05-14,Real Madrid,4 - 1,Sevilla,Perdió,4,1,3
+2017-05-05,Sevilla,1 - 1,R. Sociedad,Empató,1,1,0
+2017-05-01,Málaga,4 - 2,Sevilla,Perdió,4,2,2
+2017-04-27,Sevilla,2 - 1,Celta,Ganó,2,1,1
+2017-04-21,Sevilla,2 - 0,Granada,Ganó,2,0,2
+2017-04-16,Valencia,0 - 0,Sevilla,Empató,0,0,0
+2017-04-08,Sevilla,4 - 2,RC Deportivo,Ganó,4,2,2
+2017-04-05,Barcelona,3 - 0,Sevilla,Perdió,3,0,3
+2017-04-02,Sevilla,0 - 0,Real Sporting,Empató,0,0,0
+2017-03-19,Atlético,3 - 1,Sevilla,Perdió,3,1,2
+2017-03-11,Sevilla,1 - 1,Leganés,Empató,1,1,0
+2017-03-06,Deportivo Alavés,1 - 1,Sevilla,Empató,1,1,0
+2017-03-02,Sevilla,1 - 0,Athletic,Ganó,1,0,1
+2017-02-25,Real Betis,1 - 2,Sevilla,Ganó,1,2,1
+2017-02-18,Sevilla,2 - 0,Eibar,Ganó,2,0,2
+2017-02-12,Las Palmas,0 - 1,Sevilla,Ganó,0,1,1
+2017-02-05,Sevilla,0 - 0,Villarreal,Empató,0,0,0
+2017-01-29,Espanyol,3 - 1,Sevilla,Perdió,3,1,2
+2017-01-22,Osasuna,3 - 4,Sevilla,Ganó,3,4,1
+2017-01-15,Sevilla,2 - 1,Real Madrid,Ganó,2,1,1
+2017-01-07,R. Sociedad,0 - 4,Sevilla,Ganó,0,4,4
+2016-12-17,Sevilla,4 - 1,Málaga,Ganó,4,1,3
+2016-12-11,Celta,0 - 3,Sevilla,Ganó,0,3,3
+2016-12-03,Granada,2 - 1,Sevilla,Perdió,2,1,1
+2016-11-26,Sevilla,2 - 1,Valencia,Ganó,2,1,1
+2016-11-19,RC Deportivo,2 - 3,Sevilla,Ganó,2,3,1
+2016-11-06,Sevilla,1 - 2,Barcelona,Perdió,1,2,1
+2016-10-29,Real Sporting,1 - 1,Sevilla,Empató,1,1,0
+2016-10-23,Sevilla,1 - 0,Atlético,Ganó,1,0,1
+2016-10-15,Leganés,2 - 3,Sevilla,Ganó,2,3,1
+2016-10-01,Sevilla,2 - 1,Deportivo Alavés,Ganó,2,1,1
+2016-09-24,Athletic,3 - 1,Sevilla,Perdió,3,1,2
+2016-09-20,Sevilla,1 - 0,Real Betis,Ganó,1,0,1
+2016-09-17,Eibar,1 - 1,Sevilla,Empató,1,1,0
+2016-09-10,Sevilla,2 - 1,Las Palmas,Ganó,2,1,1
+2016-08-28,Villarreal,0 - 0,Sevilla,Empató,0,0,0
+2016-08-20,Sevilla,6 - 4,Espanyol,Ganó,6,4,2
+2016-05-14,Athletic,3 - 1,Sevilla,Perdió,3,1,2
+2016-05-08,Sevilla,1 - 4,Granada,Perdió,1,4,3
+2016-05-01,Espanyol,1 - 0,Sevilla,Perdió,1,0,1
+2016-04-24,Sevilla,2 - 0,Real Betis,Ganó,2,0,2
+2016-04-20,Real Sporting,2 - 1,Sevilla,Perdió,2,1,1
+2016-04-17,Sevilla,1 - 1,RC Deportivo,Empató,1,1,0
+2016-04-10,Valencia,2 - 1,Sevilla,Perdió,2,1,1
+2016-04-03,Sevilla,1 - 2,R. Sociedad,Perdió,1,2,1
+2016-03-20,Real Madrid,4 - 0,Sevilla,Perdió,4,0,4
+2016-03-13,Sevilla,4 - 2,Villarreal,Ganó,4,2,2
+2016-03-05,Getafe,1 - 1,Sevilla,Empató,1,1,0
+2016-03-02,Sevilla,1 - 0,Eibar,Ganó,1,0,1
+2016-02-28,Barcelona,2 - 1,Sevilla,Perdió,2,1,1
+2016-02-21,Rayo Vallecano,2 - 2,Sevilla,Empató,2,2,0
+2016-02-14,Sevilla,2 - 0,Las Palmas,Ganó,2,0,2
+2016-02-07,Celta,1 - 1,Sevilla,Empató,1,1,0
+2016-01-31,Sevilla,3 - 1,Levante,Ganó,3,1,2
+2016-01-24,Atlético,0 - 0,Sevilla,Empató,0,0,0
+2016-01-16,Sevilla,2 - 1,Málaga,Ganó,2,1,1
+2016-01-09,Sevilla,2 - 0,Athletic,Ganó,2,0,2
+2016-01-03,Granada,2 - 1,Sevilla,Perdió,2,1,1
+2015-12-30,Sevilla,2 - 0,Espanyol,Ganó,2,0,2
+2015-12-19,Real Betis,0 - 0,Sevilla,Empató,0,0,0
+2015-12-12,Sevilla,2 - 0,Real Sporting,Ganó,2,0,2
+2015-12-05,RC Deportivo,1 - 1,Sevilla,Empató,1,1,0
+2015-11-29,Sevilla,1 - 0,Valencia,Ganó,1,0,1
+2015-11-21,R. Sociedad,2 - 0,Sevilla,Perdió,2,0,2
+2015-11-08,Sevilla,3 - 2,Real Madrid,Ganó,3,2,1
+2015-10-31,Villarreal,2 - 1,Sevilla,Perdió,2,1,1
+2015-10-24,Sevilla,5 - 0,Getafe,Ganó,5,0,5
+2015-10-17,Eibar,1 - 1,Sevilla,Empató,1,1,0
+2015-10-03,Sevilla,2 - 1,Barcelona,Ganó,2,1,1
+2015-09-26,Sevilla,3 - 2,Rayo Vallecano,Ganó,3,2,1
+2015-09-23,Las Palmas,2 - 0,Sevilla,Perdió,2,0,2
+2015-09-20,Sevilla,1 - 2,Celta,Perdió,1,2,1
+2015-09-11,Levante,1 - 1,Sevilla,Empató,1,1,0
+2015-08-30,Sevilla,0 - 3,Atlético,Perdió,0,3,3
+2015-08-21,Málaga,0 - 0,Sevilla,Empató,0,0,0
+2015-05-23,Málaga,2 - 3,Sevilla,Ganó,2,3,1
+2015-05-17,Sevilla,2 - 1,Almería,Ganó,2,1,1
+2015-05-10,Celta,1 - 1,Sevilla,Empató,1,1,0
+2015-05-02,Sevilla,2 - 3,Real Madrid,Perdió,2,3,1
+2015-04-29,Eibar,1 - 3,Sevilla,Ganó,1,3,2
+2015-04-26,Sevilla,2 - 0,Rayo Vallecano,Ganó,2,0,2
+2015-04-19,Granada,1 - 1,Sevilla,Empató,1,1,0
+2015-04-11,Sevilla,2 - 2,Barcelona,Empató,2,2,0
+2015-04-07,Levante,1 - 2,Sevilla,Ganó,1,2,1
+2015-04-04,Sevilla,2 - 0,Athletic,Ganó,2,0,2
+2015-03-22,Villarreal,0 - 2,Sevilla,Ganó,0,2,2
+2015-03-15,Sevilla,3 - 0,Elche,Ganó,3,0,3
+2015-03-07,RC Deportivo,3 - 4,Sevilla,Ganó,3,4,1
+2015-03-01,Sevilla,0 - 0,Atlético,Empató,0,0,0
+2015-02-22,R. Sociedad,4 - 3,Sevilla,Perdió,4,3,1
+2015-02-14,Sevilla,3 - 0,Córdoba,Ganó,3,0,3
+2015-02-08,Getafe,2 - 1,Sevilla,Perdió,2,1,1
+2015-02-04,Real Madrid,2 - 1,Sevilla,Perdió,2,1,1
+2015-02-01,Sevilla,3 - 2,Espanyol,Ganó,3,2,1
+2015-01-25,Valencia,3 - 1,Sevilla,Perdió,3,1,2
+2015-01-18,Sevilla,2 - 0,Málaga,Ganó,2,0,2
+2015-01-11,Almería,0 - 2,Sevilla,Ganó,0,2,2
+2015-01-03,Sevilla,1 - 0,Celta,Ganó,1,0,1
+2014-12-14,Sevilla,0 - 0,Eibar,Empató,0,0,0
+2014-12-07,Rayo Vallecano,0 - 1,Sevilla,Ganó,0,1,1
+2014-11-30,Sevilla,5 - 1,Granada,Ganó,5,1,4
+2014-11-22,Barcelona,5 - 1,Sevilla,Perdió,5,1,4
+2014-11-09,Sevilla,1 - 1,Levante,Empató,1,1,0
+2014-11-02,Athletic,1 - 0,Sevilla,Perdió,1,0,1
+2014-10-26,Sevilla,2 - 1,Villarreal,Ganó,2,1,1
+2014-10-19,Elche,0 - 2,Sevilla,Ganó,0,2,2
+2014-10-05,Sevilla,4 - 1,RC Deportivo,Ganó,4,1,3
+2014-09-27,Atlético,4 - 0,Sevilla,Perdió,4,0,4
+2014-09-24,Sevilla,1 - 0,R. Sociedad,Ganó,1,0,1
+2014-09-21,Córdoba,1 - 3,Sevilla,Ganó,1,3,2
+2014-09-14,Sevilla,2 - 0,Getafe,Ganó,2,0,2
+2014-08-30,Espanyol,1 - 2,Sevilla,Ganó,1,2,1
+2014-08-23,Sevilla,1 - 1,Valencia,Empató,1,1,0
+2014-05-18,Sevilla,3 - 1,Elche,Ganó,3,1,2
+2014-05-11,Getafe,1 - 0,Sevilla,Perdió,1,0,1
+2014-05-04,Sevilla,0 - 0,Villarreal,Empató,0,0,0
+2014-04-27,Athletic,3 - 1,Sevilla,Perdió,3,1,2
+2014-04-20,Sevilla,4 - 0,Granada,Ganó,4,0,4
+2014-04-13,Real Betis,0 - 2,Sevilla,Ganó,0,2,2
+2014-04-06,Sevilla,4 - 1,Espanyol,Ganó,4,1,3
+2014-03-29,Celta,1 - 0,Sevilla,Perdió,1,0,1
+2014-03-26,Sevilla,2 - 1,Real Madrid,Ganó,2,1,1
+2014-03-23,Osasuna,1 - 2,Sevilla,Ganó,1,2,1
+2014-03-16,Sevilla,4 - 1,Real Valladolid,Ganó,4,1,3
+2014-03-09,Almería,1 - 3,Sevilla,Ganó,1,3,2
+2014-03-02,Sevilla,1 - 0,R. Sociedad,Ganó,1,0,1
+2014-02-23,Rayo Vallecano,0 - 1,Sevilla,Ganó,0,1,1
+2014-02-16,Sevilla,0 - 0,Valencia,Empató,0,0,0
+2014-02-09,Sevilla,1 - 4,Barcelona,Perdió,1,4,3
+2014-02-01,Málaga,3 - 2,Sevilla,Perdió,3,2,1
+2014-01-25,Sevilla,2 - 3,Levante,Perdió,2,3,1
+2014-01-19,Atlético,1 - 1,Sevilla,Empató,1,1,0
+2014-01-11,Elche,1 - 1,Sevilla,Empató,1,1,0
+2014-01-05,Sevilla,3 - 0,Getafe,Ganó,3,0,3
+2013-12-21,Villarreal,1 - 2,Sevilla,Ganó,1,2,1
+2013-12-15,Sevilla,1 - 1,Athletic,Empató,1,1,0
+2013-12-01,Granada,1 - 2,Sevilla,Ganó,1,2,1
+2013-11-24,Sevilla,4 - 0,Real Betis,Ganó,4,0,4
+2013-11-10,Espanyol,1 - 3,Sevilla,Ganó,1,3,2
+2013-11-02,Sevilla,0 - 1,Celta,Perdió,0,1,1
+2013-10-30,Real Madrid,7 - 3,Sevilla,Perdió,7,3,4
+2013-10-27,Sevilla,2 - 1,Osasuna,Ganó,2,1,1
+2013-10-20,Real Valladolid,2 - 2,Sevilla,Empató,2,2,0
+2013-10-06,Sevilla,2 - 1,Almería,Ganó,2,1,1
+2013-09-28,R. Sociedad,1 - 1,Sevilla,Empató,1,1,0
+2013-09-25,Sevilla,4 - 1,Rayo Vallecano,Ganó,4,1,3
+2013-09-22,Valencia,3 - 1,Sevilla,Perdió,3,1,2
+2013-09-14,Barcelona,3 - 2,Sevilla,Perdió,3,2,1
+2013-09-01,Sevilla,2 - 2,Málaga,Empató,2,2,0
+2013-08-25,Levante,0 - 0,Sevilla,Empató,0,0,0
+2013-08-18,Sevilla,1 - 3,Atlético,Perdió,1,3,2
+2013-06-01,Sevilla,4 - 3,Valencia,Ganó,4,3,1
+2013-05-26,Osasuna,2 - 1,Sevilla,Perdió,2,1,1
+2013-05-18,Sevilla,1 - 2,R. Sociedad,Perdió,1,2,1
+2013-05-12,Málaga,0 - 0,Sevilla,Empató,0,0,0
+2013-05-05,Sevilla,3 - 0,Espanyol,Ganó,3,0,3
+2013-04-28,Real Valladolid,1 - 1,Sevilla,Empató,1,1,0
+2013-04-21,Sevilla,0 - 1,Atlético,Perdió,0,1,1
+2013-04-12,Real Betis,3 - 3,Sevilla,Empató,3,3,0
+2013-04-08,Sevilla,2 - 1,Athletic,Ganó,2,1,1
+2013-03-30,Levante,1 - 0,Sevilla,Perdió,1,0,1
+2013-03-17,Sevilla,4 - 0,Real Zaragoza,Ganó,4,0,4
+2013-03-09,Mallorca,2 - 1,Sevilla,Perdió,2,1,1
+2013-03-04,Sevilla,4 - 1,Celta,Ganó,4,1,3
+2013-02-23,Barcelona,2 - 1,Sevilla,Perdió,2,1,1
+2013-02-15,Sevilla,3 - 1,RC Deportivo,Ganó,3,1,2
+2013-02-09,Real Madrid,4 - 1,Sevilla,Perdió,4,1,3
+2013-02-03,Sevilla,2 - 1,Rayo Vallecano,Ganó,2,1,1
+2013-01-28,Sevilla,3 - 0,Granada,Ganó,3,0,3
+2013-01-19,Getafe,1 - 1,Sevilla,Empató,1,1,0
+2013-01-12,Valencia,2 - 0,Sevilla,Perdió,2,0,2
+2013-01-05,Sevilla,1 - 0,Osasuna,Ganó,1,0,1
+2012-12-20,R. Sociedad,2 - 1,Sevilla,Perdió,2,1,1
+2012-12-15,Sevilla,0 - 2,Málaga,Perdió,0,2,2
+2012-12-07,Espanyol,2 - 2,Sevilla,Empató,2,2,0
+2012-12-03,Sevilla,1 - 2,Real Valladolid,Perdió,1,2,1
+2012-11-25,Atlético,4 - 0,Sevilla,Perdió,4,0,4
+2012-11-18,Sevilla,5 - 1,Real Betis,Ganó,5,1,4
+2012-11-11,Athletic,2 - 1,Sevilla,Perdió,2,1,1
+2012-11-04,Sevilla,0 - 0,Levante,Empató,0,0,0
+2012-10-28,Real Zaragoza,2 - 1,Sevilla,Perdió,2,1,1
+2012-10-22,Sevilla,3 - 2,Mallorca,Ganó,3,2,1
+2012-10-05,Celta,2 - 0,Sevilla,Perdió,2,0,2
+2012-09-29,Sevilla,2 - 3,Barcelona,Perdió,2,3,1
+2012-09-24,RC Deportivo,0 - 2,Sevilla,Ganó,0,2,2
+2012-09-15,Sevilla,1 - 0,Real Madrid,Ganó,1,0,1
+2012-09-02,Rayo Vallecano,0 - 0,Sevilla,Empató,0,0,0
+2012-08-26,Granada,1 - 1,Sevilla,Empató,1,1,0
+2012-08-18,Sevilla,2 - 1,Getafe,Ganó,2,1,1
+2012-05-13,Espanyol,1 - 1,Sevilla,Empató,1,1,0
+2012-05-05,Sevilla,5 - 2,Rayo Vallecano,Ganó,5,2,3
+2012-05-02,Sevilla,1 - 2,Real Betis,Perdió,1,2,1
+2012-04-29,Real Madrid,3 - 0,Sevilla,Perdió,3,0,3
+2012-04-21,Sevilla,1 - 1,Levante,Empató,1,1,0
+2012-04-16,Getafe,5 - 1,Sevilla,Perdió,5,1,4
+2012-04-12,Sevilla,3 - 0,Real Zaragoza,Ganó,3,0,3
+2012-04-08,Athletic,1 - 0,Sevilla,Perdió,1,0,1
+2012-04-02,Sevilla,3 - 1,Mallorca,Ganó,3,1,2
+2012-03-26,Granada,0 - 3,Sevilla,Ganó,0,3,3
+2012-03-22,Racing,0 - 3,Sevilla,Ganó,0,3,3
+2012-03-17,Sevilla,0 - 2,Barcelona,Perdió,0,2,2
+2012-03-10,Real Sporting,1 - 0,Sevilla,Perdió,1,0,1
+2012-03-03,Sevilla,1 - 1,Atlético,Empató,1,1,0
+2012-02-26,Valencia,1 - 2,Sevilla,Ganó,1,2,1
+2012-02-18,Sevilla,2 - 0,Osasuna,Ganó,2,0,2
+2012-02-13,R. Sociedad,2 - 0,Sevilla,Perdió,2,0,2
+2012-02-05,Sevilla,1 - 2,Villarreal,Perdió,1,2,1
+2012-01-29,Málaga,2 - 1,Sevilla,Perdió,2,1,1
+2012-01-21,Real Betis,1 - 1,Sevilla,Empató,1,1,0
+2012-01-14,Sevilla,0 - 0,Espanyol,Empató,0,0,0
+2012-01-08,Rayo Vallecano,2 - 1,Sevilla,Perdió,2,1,1
+2011-12-17,Sevilla,2 - 6,Real Madrid,Perdió,2,6,4
+2011-12-10,Levante,1 - 0,Sevilla,Perdió,1,0,1
+2011-12-05,Sevilla,3 - 0,Getafe,Ganó,3,0,3
+2011-11-27,Real Zaragoza,0 - 1,Sevilla,Ganó,0,1,1
+2011-11-20,Sevilla,1 - 2,Athletic,Perdió,1,2,1
+2011-11-05,Mallorca,0 - 0,Sevilla,Empató,0,0,0
+2011-10-31,Sevilla,1 - 2,Granada,Perdió,1,2,1
+2011-10-25,Sevilla,2 - 2,Racing,Empató,2,2,0
+2011-10-22,Barcelona,0 - 0,Sevilla,Empató,0,0,0
+2011-10-16,Sevilla,2 - 1,Real Sporting,Ganó,2,1,1
+2011-10-02,Atlético,0 - 0,Sevilla,Empató,0,0,0
+2011-09-24,Sevilla,1 - 0,Valencia,Ganó,1,0,1
+2011-09-20,Osasuna,0 - 0,Sevilla,Empató,0,0,0
+2011-09-17,Sevilla,1 - 0,R. Sociedad,Ganó,1,0,1
+2011-09-10,Villarreal,2 - 2,Sevilla,Empató,2,2,0
+2011-08-28,Sevilla,2 - 1,Málaga,Ganó,2,1,1
+2011-05-21,Espanyol,2 - 3,Sevilla,Ganó,2,3,1
+2011-05-15,Sevilla,3 - 1,R. Sociedad,Ganó,3,1,2
+2011-05-11,Osasuna,3 - 2,Sevilla,Perdió,3,2,1
+2011-05-07,Sevilla,2 - 6,Real Madrid,Perdió,2,6,4
+2011-05-01,Almería,0 - 1,Sevilla,Ganó,0,1,1
+2011-04-24,Sevilla,3 - 2,Villarreal,Ganó,3,2,1
+2011-04-16,Getafe,1 - 0,Sevilla,Perdió,1,0,1
+2011-04-09,Mallorca,2 - 2,Sevilla,Empató,2,2,0
+2011-04-03,Sevilla,3 - 1,Real Zaragoza,Ganó,3,1,2
+2011-03-20,Valencia,0 - 1,Sevilla,Ganó,0,1,1
+2011-03-13,Sevilla,1 - 1,Barcelona,Empató,1,1,0
+2011-03-06,Athletic,2 - 0,Sevilla,Perdió,2,0,2
+2011-03-01,Sevilla,3 - 0,Real Sporting,Ganó,3,0,3
+2011-02-26,Atlético,2 - 2,Sevilla,Empató,2,2,0
+2011-02-20,Sevilla,1 - 0,Hércules,Ganó,1,0,1
+2011-02-12,Racing,3 - 2,Sevilla,Perdió,3,2,1
+2011-02-06,Sevilla,0 - 0,Málaga,Empató,0,0,0
+2011-01-29,RC Deportivo,3 - 3,Sevilla,Empató,3,3,0
+2011-01-22,Sevilla,4 - 1,Levante,Ganó,4,1,3
+2011-01-15,Sevilla,1 - 2,Espanyol,Perdió,1,2,1
+2011-01-08,R. Sociedad,2 - 3,Sevilla,Ganó,2,3,1
+2011-01-02,Sevilla,1 - 0,Osasuna,Ganó,1,0,1
+2010-12-19,Real Madrid,1 - 0,Sevilla,Perdió,1,0,1
+2010-12-11,Sevilla,1 - 3,Almería,Perdió,1,3,2
+2010-12-05,Villarreal,1 - 0,Sevilla,Perdió,1,0,1
+2010-11-27,Sevilla,1 - 3,Getafe,Perdió,1,3,2
+2010-11-21,Sevilla,1 - 2,Mallorca,Perdió,1,2,1
+2010-11-14,Real Zaragoza,1 - 2,Sevilla,Ganó,1,2,1
+2010-11-08,Sevilla,2 - 0,Valencia,Ganó,2,0,2
+2010-10-30,Barcelona,5 - 0,Sevilla,Perdió,5,0,5
+2010-10-24,Sevilla,4 - 3,Athletic,Ganó,4,3,1
+2010-10-17,Real Sporting,2 - 0,Sevilla,Perdió,2,0,2
+2010-10-03,Sevilla,3 - 1,Atlético,Ganó,3,1,2
+2010-09-26,Hércules,2 - 0,Sevilla,Perdió,2,0,2
+2010-09-23,Sevilla,1 - 1,Racing,Empató,1,1,0
+2010-09-19,Málaga,1 - 2,Sevilla,Ganó,1,2,1
+2010-09-12,Sevilla,0 - 0,RC Deportivo,Empató,0,0,0
+2010-08-28,Levante,1 - 4,Sevilla,Ganó,1,4,3
+2010-05-15,Almería,2 - 3,Sevilla,Ganó,2,3,1
+2010-05-08,Sevilla,2 - 3,Barcelona,Perdió,2,3,1
+2010-05-05,Racing,1 - 5,Sevilla,Ganó,1,5,4
+2010-05-02,Sevilla,3 - 1,Atlético,Ganó,3,1,2
+2010-04-25,Getafe,4 - 3,Sevilla,Perdió,4,3,1
+2010-04-17,Sevilla,3 - 0,Real Sporting,Ganó,3,0,3
+2010-04-13,Real Valladolid,2 - 1,Sevilla,Perdió,2,1,1
+2010-04-10,Málaga,1 - 2,Sevilla,Ganó,1,2,1
+2010-04-03,Sevilla,3 - 0,Tenerife,Ganó,3,0,3
+2010-03-28,Villarreal,3 - 0,Sevilla,Perdió,3,0,3
+2010-03-23,Sevilla,1 - 1,Xerez CD,Empató,1,1,0
+2010-03-20,Espanyol,2 - 0,Sevilla,Perdió,2,0,2
+2010-03-13,Sevilla,1 - 1,RC Deportivo,Empató,1,1,0
+2010-03-06,Real Madrid,3 - 2,Sevilla,Perdió,3,2,1
+2010-02-28,Sevilla,0 - 0,Athletic,Empató,0,0,0
+2010-02-20,Mallorca,1 - 3,Sevilla,Ganó,1,3,2
+2010-02-14,Sevilla,1 - 0,Osasuna,Ganó,1,0,1
+2010-02-07,Real Zaragoza,2 - 1,Sevilla,Perdió,2,1,1
+2010-01-31,Sevilla,2 - 1,Valencia,Ganó,2,1,1
+2010-01-23,Sevilla,1 - 0,Almería,Ganó,1,0,1
+2010-01-16,Barcelona,4 - 0,Sevilla,Perdió,4,0,4
+2010-01-09,Sevilla,1 - 2,Racing,Perdió,1,2,1
+2010-01-02,Atlético,2 - 1,Sevilla,Perdió,2,1,1
+2009-12-19,Sevilla,1 - 2,Getafe,Perdió,1,2,1
+2009-12-13,Real Sporting,0 - 1,Sevilla,Ganó,0,1,1
+2009-12-05,Sevilla,1 - 1,Real Valladolid,Empató,1,1,0
+2009-11-28,Sevilla,2 - 2,Málaga,Empató,2,2,0
+2009-11-21,Tenerife,1 - 2,Sevilla,Ganó,1,2,1
+2009-11-08,Sevilla,3 - 2,Villarreal,Ganó,3,2,1
+2009-10-31,Xerez CD,0 - 2,Sevilla,Ganó,0,2,2
+2009-10-24,Sevilla,0 - 0,Espanyol,Empató,0,0,0
+2009-10-17,RC Deportivo,1 - 0,Sevilla,Perdió,1,0,1
+2009-10-04,Sevilla,2 - 1,Real Madrid,Ganó,2,1,1
+2009-09-26,Athletic,0 - 4,Sevilla,Ganó,0,4,4
+2009-09-22,Sevilla,2 - 0,Mallorca,Ganó,2,0,2
+2009-09-19,Osasuna,0 - 2,Sevilla,Ganó,0,2,2
+2009-09-12,Sevilla,4 - 1,Real Zaragoza,Ganó,4,1,3
+2009-08-30,Valencia,2 - 0,Sevilla,Perdió,2,0,2
+2009-05-31,Numancia,0 - 2,Sevilla,Ganó,0,2,2
+2009-05-23,Sevilla,1 - 0,RC Deportivo,Ganó,1,0,1
+2009-05-16,Osasuna,0 - 0,Sevilla,Empató,0,0,0
+2009-05-09,Sevilla,3 - 1,Mallorca,Ganó,3,1,2
+2009-05-02,Villarreal,0 - 2,Sevilla,Ganó,0,2,2
+2009-04-26,Sevilla,2 - 4,Real Madrid,Perdió,2,4,2
+2009-04-22,Barcelona,4 - 0,Sevilla,Perdió,4,0,4
+2009-04-19,Valencia,3 - 1,Sevilla,Perdió,3,1,2
+2009-04-12,Sevilla,0 - 1,Getafe,Perdió,0,1,1
+2009-04-04,Recreativo,0 - 1,Sevilla,Ganó,0,1,1
+2009-03-21,Sevilla,4 - 1,Real Valladolid,Ganó,4,1,3
+2009-03-15,Málaga,2 - 2,Sevilla,Empató,2,2,0
+2009-03-08,Sevilla,2 - 1,Almería,Ganó,2,1,1
+2009-02-28,Athletic,1 - 2,Sevilla,Ganó,1,2,1
+2009-02-21,Sevilla,1 - 0,Atlético,Ganó,1,0,1
+2009-02-15,Espanyol,0 - 2,Sevilla,Ganó,0,2,2
+2009-02-07,Sevilla,1 - 2,Real Betis,Perdió,1,2,1
+2009-02-01,Real Sporting,1 - 0,Sevilla,Perdió,1,0,1
+2009-01-25,Sevilla,0 - 2,Racing,Perdió,0,2,2
+2009-01-17,Sevilla,1 - 0,Numancia,Ganó,1,0,1
+2009-01-10,RC Deportivo,1 - 3,Sevilla,Ganó,1,3,2
+2009-01-04,Sevilla,1 - 1,Osasuna,Empató,1,1,0
+2008-12-21,Mallorca,0 - 0,Sevilla,Empató,0,0,0
+2008-12-14,Sevilla,1 - 0,Villarreal,Ganó,1,0,1
+2008-12-07,Real Madrid,3 - 4,Sevilla,Ganó,3,4,1
+2008-11-29,Sevilla,0 - 3,Barcelona,Perdió,0,3,3
+2008-11-22,Sevilla,0 - 0,Valencia,Empató,0,0,0
+2008-11-16,Getafe,0 - 2,Sevilla,Ganó,0,2,2
+2008-11-09,Sevilla,1 - 0,Recreativo,Ganó,1,0,1
+2008-11-02,Real Valladolid,3 - 2,Sevilla,Perdió,3,2,1
+2008-10-26,Sevilla,0 - 1,Málaga,Perdió,0,1,1
+2008-10-19,Almería,0 - 1,Sevilla,Ganó,0,1,1
+2008-10-05,Sevilla,4 - 0,Athletic,Ganó,4,0,4
+2008-09-28,Atlético,0 - 1,Sevilla,Ganó,0,1,1
+2008-09-24,Sevilla,2 - 0,Espanyol,Ganó,2,0,2
+2008-09-21,Real Betis,0 - 0,Sevilla,Empató,0,0,0
+2008-09-13,Sevilla,4 - 3,Real Sporting,Ganó,4,3,1
+2008-08-31,Racing,1 - 1,Sevilla,Empató,1,1,0
+2008-05-18,Sevilla,4 - 1,Athletic,Ganó,4,1,3
+2008-05-11,Real Betis,0 - 2,Sevilla,Ganó,0,2,2
+2008-05-07,Racing,0 - 3,Sevilla,Ganó,0,3,3
+2008-05-04,Sevilla,2 - 0,Real Valladolid,Ganó,2,0,2
+2008-04-26,Real Murcia,0 - 0,Sevilla,Empató,0,0,0
+2008-04-19,Sevilla,1 - 4,Almería,Perdió,1,4,3
+2008-04-13,Mallorca,2 - 3,Sevilla,Ganó,2,3,1
+2008-04-06,Sevilla,2 - 0,Villarreal,Ganó,2,0,2
+2008-03-30,Real Madrid,3 - 1,Sevilla,Perdió,3,1,2
+2008-03-22,Sevilla,1 - 2,Atlético,Perdió,1,2,1
+2008-03-15,Valencia,1 - 2,Sevilla,Ganó,1,2,1
+2008-03-09,Sevilla,2 - 1,Levante,Ganó,2,1,1
+2008-03-01,RC Deportivo,2 - 1,Sevilla,Perdió,2,1,1
+2008-02-23,Sevilla,5 - 0,Real Zaragoza,Ganó,5,0,5
+2008-02-16,Espanyol,2 - 4,Sevilla,Ganó,2,4,2
+2008-02-09,Sevilla,1 - 1,Barcelona,Empató,1,1,0
+2008-02-03,Recreativo,1 - 2,Sevilla,Ganó,1,2,1
+2008-01-26,Sevilla,2 - 1,Osasuna,Ganó,2,1,1
+2008-01-19,Getafe,3 - 2,Sevilla,Perdió,3,2,1
+2008-01-12,Athletic,2 - 0,Sevilla,Perdió,2,0,2
+2008-01-06,Sevilla,3 - 0,Real Betis,Ganó,3,0,3
+2007-12-22,Sevilla,4 - 1,Racing,Ganó,4,1,3
+2007-12-16,Real Valladolid,0 - 0,Sevilla,Empató,0,0,0
+2007-12-09,Sevilla,3 - 1,Real Murcia,Ganó,3,1,2
+2007-12-05,Osasuna,1 - 1,Sevilla,Empató,1,1,0
+2007-12-01,Almería,1 - 0,Sevilla,Perdió,1,0,1
+2007-11-24,Sevilla,1 - 2,Mallorca,Perdió,1,2,1
+2007-11-11,Villarreal,3 - 2,Sevilla,Perdió,3,2,1
+2007-11-03,Sevilla,2 - 0,Real Madrid,Ganó,2,0,2
+2007-10-31,Atlético,4 - 3,Sevilla,Perdió,4,3,1
+2007-10-28,Sevilla,3 - 0,Valencia,Ganó,3,0,3
+2007-10-20,Levante,0 - 2,Sevilla,Ganó,0,2,2
+2007-10-07,Sevilla,0 - 1,RC Deportivo,Perdió,0,1,1
+2007-09-29,Real Zaragoza,2 - 0,Sevilla,Perdió,2,0,2
+2007-09-25,Sevilla,2 - 3,Espanyol,Perdió,2,3,1
+2007-09-22,Barcelona,2 - 1,Sevilla,Perdió,2,1,1
+2007-09-16,Sevilla,4 - 1,Recreativo,Ganó,4,1,3
+2007-08-25,Sevilla,4 - 1,Getafe,Ganó,4,1,3
+2007-06-17,Sevilla,0 - 1,Villarreal,Perdió,0,1,1
+2007-06-09,Mallorca,0 - 0,Sevilla,Empató,0,0,0
+2007-05-27,Sevilla,3 - 1,Real Zaragoza,Ganó,3,1,2
+2007-05-20,RC Deportivo,1 - 2,Sevilla,Ganó,1,2,1
+2007-05-12,Sevilla,2 - 1,Recreativo,Ganó,2,1,1
+2007-05-06,Real Madrid,3 - 2,Sevilla,Perdió,3,2,1
+2007-04-29,Sevilla,3 - 1,Espanyol,Ganó,3,1,2
+2007-04-22,Sevilla,4 - 1,Athletic,Ganó,4,1,3
+2007-04-15,Valencia,2 - 0,Sevilla,Perdió,2,0,2
+2007-04-08,Sevilla,0 - 0,Racing,Empató,0,0,0
+2007-04-01,Osasuna,0 - 0,Sevilla,Empató,0,0,0
+2007-03-18,Sevilla,2 - 0,Celta,Ganó,2,0,2
+2007-03-11,Gimnàstic,1 - 0,Sevilla,Perdió,1,0,1
+2007-03-03,Sevilla,2 - 1,Barcelona,Ganó,2,1,1
+2007-02-25,Getafe,0 - 0,Sevilla,Empató,0,0,0
+2007-02-18,Sevilla,3 - 1,Atlético,Ganó,3,1,2
+2007-02-10,Real Betis,0 - 0,Sevilla,Empató,0,0,0
+2007-02-04,Sevilla,0 - 0,R. Sociedad,Empató,0,0,0
+2007-01-28,Levante,2 - 4,Sevilla,Ganó,2,4,2
+2007-01-20,Villarreal,0 - 0,Sevilla,Empató,0,0,0
+2007-01-14,Sevilla,1 - 2,Mallorca,Perdió,1,2,1
+2007-01-06,Real Zaragoza,2 - 1,Sevilla,Perdió,2,1,1
+2006-12-20,Sevilla,4 - 0,RC Deportivo,Ganó,4,0,4
+2006-12-17,Recreativo,1 - 3,Sevilla,Ganó,1,3,2
+2006-12-09,Sevilla,2 - 1,Real Madrid,Ganó,2,1,1
+2006-12-03,Espanyol,2 - 1,Sevilla,Perdió,2,1,1
+2006-11-26,Athletic,1 - 3,Sevilla,Ganó,1,3,2
+2006-11-18,Sevilla,3 - 0,Valencia,Ganó,3,0,3
+2006-11-12,Racing,0 - 0,Sevilla,Empató,0,0,0
+2006-11-05,Sevilla,2 - 0,Osasuna,Ganó,2,0,2
+2006-10-29,Celta,1 - 2,Sevilla,Ganó,1,2,1
+2006-10-22,Sevilla,2 - 1,Gimnàstic,Ganó,2,1,1
+2006-10-15,Barcelona,3 - 1,Sevilla,Perdió,3,1,2
+2006-10-01,Sevilla,1 - 0,Getafe,Ganó,1,0,1
+2006-09-24,Atlético,2 - 1,Sevilla,Perdió,2,1,1
+2006-09-17,Sevilla,3 - 2,Real Betis,Ganó,3,2,1
+2006-09-10,R. Sociedad,1 - 3,Sevilla,Ganó,1,3,2
+2006-08-29,Sevilla,4 - 0,Levante,Ganó,4,0,4
+2006-05-16,Sevilla,4 - 3,Real Madrid,Ganó,4,3,1
+2006-05-13,Sevilla,3 - 2,Barcelona,Ganó,3,2,1
+2006-05-06,Málaga,0 - 2,Sevilla,Ganó,0,2,2
+2006-05-03,Sevilla,3 - 0,Getafe,Ganó,3,0,3
+2006-04-30,R. Sociedad,1 - 2,Sevilla,Ganó,1,2,1
+2006-04-15,RC Deportivo,0 - 0,Sevilla,Empató,0,0,0
+2006-04-09,Sevilla,1 - 1,Real Zaragoza,Empató,1,1,0
+2006-04-02,Real Betis,2 - 1,Sevilla,Perdió,2,1,1
+2006-03-26,Sevilla,1 - 0,Valencia,Ganó,1,0,1
+2006-03-23,Atlético,0 - 1,Sevilla,Ganó,0,1,1
+2006-03-19,Sevilla,1 - 1,Mallorca,Empató,1,1,0
+2006-03-12,Deportivo Alavés,2 - 1,Sevilla,Perdió,2,1,1
+2006-03-05,Sevilla,2 - 1,Athletic,Ganó,2,1,1
+2006-02-26,Espanyol,5 - 0,Sevilla,Perdió,5,0,5
+2006-02-18,Sevilla,1 - 0,Celta,Ganó,1,0,1
+2006-02-11,Cádiz,0 - 4,Sevilla,Ganó,0,4,4
+2006-02-05,Sevilla,0 - 1,Osasuna,Perdió,0,1,1
+2006-01-29,Sevilla,2 - 0,Villarreal,Ganó,2,0,2
+2006-01-22,Racing,2 - 3,Sevilla,Ganó,2,3,1
+2006-01-15,Real Madrid,4 - 2,Sevilla,Perdió,4,2,2
+2006-01-08,Sevilla,3 - 1,Málaga,Ganó,3,1,2
+2005-12-21,Getafe,1 - 0,Sevilla,Perdió,1,0,1
+2005-12-18,Sevilla,3 - 2,R. Sociedad,Ganó,3,2,1
+2005-12-11,Barcelona,2 - 1,Sevilla,Perdió,2,1,1
+2005-12-04,Sevilla,0 - 2,RC Deportivo,Perdió,0,2,2
+2005-11-27,Real Zaragoza,0 - 2,Sevilla,Ganó,0,2,2
+2005-11-19,Sevilla,1 - 0,Real Betis,Ganó,1,0,1
+2005-11-06,Sevilla,0 - 0,Atlético,Empató,0,0,0
+2005-10-30,Mallorca,1 - 1,Sevilla,Empató,1,1,0
+2005-10-27,Valencia,0 - 2,Sevilla,Ganó,0,2,2
+2005-10-22,Sevilla,2 - 0,Deportivo Alavés,Ganó,2,0,2
+2005-10-16,Athletic,0 - 1,Sevilla,Ganó,0,1,1
+2005-10-02,Sevilla,1 - 1,Espanyol,Empató,1,1,0
+2005-09-25,Celta,2 - 1,Sevilla,Perdió,2,1,1
+2005-09-21,Sevilla,0 - 0,Cádiz,Empató,0,0,0
+2005-09-18,Osasuna,1 - 0,Sevilla,Perdió,1,0,1
+2005-09-11,Villarreal,1 - 1,Sevilla,Empató,1,1,0
+2005-08-28,Sevilla,1 - 0,Racing,Ganó,1,0,1
+2005-05-29,Sevilla,0 - 2,Málaga,Perdió,0,2,2
+2005-05-22,Getafe,0 - 0,Sevilla,Empató,0,0,0
+2005-05-14,Sevilla,2 - 2,Real Madrid,Empató,2,2,0
+2005-05-07,Real Betis,1 - 0,Sevilla,Perdió,1,0,1
+2005-05-01,Sevilla,2 - 0,RC Deportivo,Ganó,2,0,2
+2005-04-24,Athletic,1 - 3,Sevilla,Ganó,1,3,2
+2005-04-16,Sevilla,0 - 1,Osasuna,Perdió,0,1,1
+2005-04-10,Espanyol,1 - 3,Sevilla,Ganó,1,3,2
+2005-04-03,Sevilla,1 - 0,Numancia,Ganó,1,0,1
+2005-03-20,Mallorca,0 - 1,Sevilla,Ganó,0,1,1
+2005-03-13,Sevilla,0 - 1,Real Zaragoza,Perdió,0,1,1
+2005-03-05,Atlético,3 - 0,Sevilla,Perdió,3,0,3
+2005-03-02,Sevilla,2 - 2,Valencia,Empató,2,2,0
+2005-02-27,Sevilla,2 - 2,Racing,Empató,2,2,0
+2005-02-19,R. Sociedad,1 - 0,Sevilla,Perdió,1,0,1
+2005-02-13,Sevilla,2 - 1,Villarreal,Ganó,2,1,1
+2005-02-06,Levante,0 - 3,Sevilla,Ganó,0,3,3
+2005-01-29,Sevilla,0 - 4,Barcelona,Perdió,0,4,4
+2005-01-23,Albacete,0 - 2,Sevilla,Ganó,0,2,2
+2005-01-15,Málaga,1 - 0,Sevilla,Perdió,1,0,1
+2005-01-08,Sevilla,0 - 0,Getafe,Empató,0,0,0
+2004-12-22,Real Madrid,0 - 1,Sevilla,Ganó,0,1,1
+2004-12-19,Sevilla,2 - 1,Real Betis,Ganó,2,1,1
+2004-12-12,RC Deportivo,2 - 2,Sevilla,Empató,2,2,0
+2004-12-05,Sevilla,2 - 0,Athletic,Ganó,2,0,2
+2004-11-28,Osasuna,4 - 1,Sevilla,Perdió,4,1,3
+2004-11-21,Sevilla,1 - 0,Espanyol,Ganó,1,0,1
+2004-11-13,Numancia,2 - 1,Sevilla,Perdió,2,1,1
+2004-11-07,Sevilla,1 - 1,Mallorca,Empató,1,1,0
+2004-10-31,Real Zaragoza,3 - 0,Sevilla,Perdió,3,0,3
+2004-10-24,Sevilla,2 - 1,Atlético,Ganó,2,1,1
+2004-10-17,Valencia,1 - 2,Sevilla,Ganó,1,2,1
+2004-10-03,Racing,0 - 0,Sevilla,Empató,0,0,0
+2004-09-26,Sevilla,2 - 1,R. Sociedad,Ganó,2,1,1
+2004-09-22,Villarreal,0 - 0,Sevilla,Empató,0,0,0
+2004-09-19,Sevilla,3 - 0,Levante,Ganó,3,0,3
+2004-09-11,Barcelona,2 - 0,Sevilla,Perdió,2,0,2
+2004-08-29,Sevilla,1 - 0,Albacete,Ganó,1,0,1
+2004-05-23,Sevilla,1 - 0,Osasuna,Ganó,1,0,1
+2004-05-16,Albacete,1 - 4,Sevilla,Ganó,1,4,3
+2004-05-09,Sevilla,0 - 2,Valencia,Perdió,0,2,2
+2004-05-02,Sevilla,2 - 0,Athletic,Ganó,2,0,2
+2004-04-25,Real Zaragoza,4 - 4,Sevilla,Empató,4,4,0
+2004-04-18,Sevilla,5 - 2,Racing,Ganó,5,2,3
+2004-04-10,Celta,0 - 0,Sevilla,Empató,0,0,0
+2004-04-03,Sevilla,1 - 0,Espanyol,Ganó,1,0,1
+2004-03-28,Real Madrid,5 - 1,Sevilla,Perdió,5,1,4
+2004-03-21,Sevilla,0 - 1,Málaga,Perdió,0,1,1
+2004-03-14,Real Valladolid,2 - 0,Sevilla,Perdió,2,0,2
+2004-03-07,Sevilla,2 - 0,Villarreal,Ganó,2,0,2
+2004-02-28,Real Betis,1 - 1,Sevilla,Empató,1,1,0
+2004-02-21,Sevilla,1 - 0,R. Sociedad,Ganó,1,0,1
+2004-02-14,Real Murcia,1 - 3,Sevilla,Ganó,1,3,2
+2004-02-08,Sevilla,3 - 0,Mallorca,Ganó,3,0,3
+2004-02-01,RC Deportivo,1 - 0,Sevilla,Perdió,1,0,1
+2004-01-25,Sevilla,0 - 1,Barcelona,Perdió,0,1,1
+2004-01-18,Atlético,2 - 1,Sevilla,Perdió,2,1,1
+2004-01-11,Osasuna,1 - 1,Sevilla,Empató,1,1,0
+2004-01-04,Sevilla,2 - 0,Albacete,Ganó,2,0,2
+2003-12-20,Valencia,1 - 0,Sevilla,Perdió,1,0,1
+2003-12-14,Athletic,2 - 1,Sevilla,Perdió,2,1,1
+2003-12-07,Sevilla,3 - 2,Real Zaragoza,Ganó,3,2,1
+2003-12-04,Racing,0 - 4,Sevilla,Ganó,0,4,4
+2003-11-30,Sevilla,0 - 1,Celta,Perdió,0,1,1
+2003-11-23,Espanyol,1 - 0,Sevilla,Perdió,1,0,1
+2003-11-09,Sevilla,4 - 1,Real Madrid,Ganó,4,1,3
+2003-11-02,Málaga,2 - 0,Sevilla,Perdió,2,0,2
+2003-10-29,Sevilla,1 - 1,Real Valladolid,Empató,1,1,0
+2003-10-26,Villarreal,3 - 3,Sevilla,Empató,3,3,0
+2003-10-19,Sevilla,2 - 2,Real Betis,Empató,2,2,0
+2003-10-05,R. Sociedad,1 - 1,Sevilla,Empató,1,1,0
+2003-09-28,Sevilla,1 - 0,Real Murcia,Ganó,1,0,1
+2003-09-21,Mallorca,1 - 1,Sevilla,Empató,1,1,0
+2003-09-13,Sevilla,1 - 2,RC Deportivo,Perdió,1,2,1
+2003-09-03,Barcelona,1 - 1,Sevilla,Empató,1,1,0
+2003-08-31,Sevilla,1 - 0,Atlético,Ganó,1,0,1
+2003-06-21,Sevilla,0 - 3,Valencia,Perdió,0,3,3
+2003-06-15,Málaga,3 - 2,Sevilla,Perdió,3,2,1
+2003-06-01,Sevilla,1 - 0,Recreativo,Ganó,1,0,1
+2003-05-25,Mallorca,1 - 3,Sevilla,Ganó,1,3,2
+2003-05-18,Sevilla,3 - 3,Rayo Vallecano,Empató,3,3,0
+2003-05-11,Sevilla,0 - 0,Barcelona,Empató,0,0,0
+2003-05-03,R. Sociedad,1 - 0,Sevilla,Perdió,1,0,1
+2003-04-27,Sevilla,1 - 3,Real Madrid,Perdió,1,3,2
+2003-04-20,RC Deportivo,3 - 1,Sevilla,Perdió,3,1,2
+2003-04-12,Sevilla,3 - 1,Villarreal,Ganó,3,1,2
+2003-04-06,Racing,1 - 0,Sevilla,Perdió,1,0,1
+2003-03-23,Sevilla,3 - 2,Deportivo Alavés,Ganó,3,2,1
+2003-03-16,Real Valladolid,0 - 0,Sevilla,Empató,0,0,0
+2003-03-09,Sevilla,2 - 0,Osasuna,Ganó,2,0,2
+2003-03-02,Real Betis,0 - 1,Sevilla,Ganó,0,1,1
+2003-02-23,Sevilla,1 - 0,Espanyol,Ganó,1,0,1
+2003-02-16,Athletic,2 - 0,Sevilla,Perdió,2,0,2
+2003-02-09,Sevilla,1 - 1,Atlético,Empató,1,1,0
+2003-02-02,Celta,0 - 1,Sevilla,Ganó,0,1,1
+2003-01-26,Valencia,1 - 0,Sevilla,Perdió,1,0,1
+2003-01-19,Sevilla,0 - 0,Málaga,Empató,0,0,0
+2003-01-12,Recreativo,0 - 0,Sevilla,Empató,0,0,0
+2003-01-05,Sevilla,3 - 0,Mallorca,Ganó,3,0,3
+2003-01-02,Real Madrid,3 - 0,Sevilla,Perdió,3,0,3
+2002-12-21,Rayo Vallecano,0 - 1,Sevilla,Ganó,0,1,1
+2002-12-15,Barcelona,0 - 3,Sevilla,Ganó,0,3,3
+2002-12-07,Sevilla,0 - 1,R. Sociedad,Perdió,0,1,1
+2002-11-23,Sevilla,1 - 1,RC Deportivo,Empató,1,1,0
+2002-11-16,Villarreal,1 - 0,Sevilla,Perdió,1,0,1
+2002-11-10,Sevilla,1 - 0,Racing,Ganó,1,0,1
+2002-11-03,Deportivo Alavés,1 - 0,Sevilla,Perdió,1,0,1
+2002-10-27,Sevilla,2 - 1,Real Valladolid,Ganó,2,1,1
+2002-10-20,Osasuna,2 - 1,Sevilla,Perdió,2,1,1
+2002-10-06,Sevilla,1 - 1,Real Betis,Empató,1,1,0
+2002-09-29,Espanyol,0 - 0,Sevilla,Empató,0,0,0
+2002-09-22,Sevilla,1 - 1,Athletic,Empató,1,1,0
+2002-09-15,Atlético,1 - 1,Sevilla,Empató,1,1,0
+2002-09-01,Sevilla,0 - 1,Celta,Perdió,0,1,1
+2002-05-11,Sevilla,1 - 0,Villarreal,Ganó,1,0,1
+2002-05-05,Celta,1 - 2,Sevilla,Ganó,1,2,1
+2002-04-28,Sevilla,2 - 0,Deportivo Alavés,Ganó,2,0,2
+2002-04-21,Athletic,0 - 1,Sevilla,Ganó,0,1,1
+2002-04-14,Sevilla,1 - 1,Las Palmas,Empató,1,1,0
+2002-04-07,Real Valladolid,1 - 1,Sevilla,Empató,1,1,0
+2002-03-30,Sevilla,0 - 1,Real Madrid,Perdió,0,1,1
+2002-03-23,Real Betis,0 - 0,Sevilla,Empató,0,0,0
+2002-03-17,Sevilla,0 - 2,Málaga,Perdió,0,2,2
+2002-03-10,Valencia,2 - 0,Sevilla,Perdió,2,0,2
+2002-03-02,Sevilla,0 - 1,RC Deportivo,Perdió,0,1,1
+2002-02-24,Mallorca,0 - 4,Sevilla,Ganó,0,4,4
+2002-02-17,Sevilla,0 - 1,R. Sociedad,Perdió,0,1,1
+2002-02-10,Tenerife,1 - 1,Sevilla,Empató,1,1,0
+2002-02-06,Sevilla,0 - 0,Osasuna,Empató,0,0,0
+2002-02-02,Rayo Vallecano,2 - 1,Sevilla,Perdió,2,1,1
+2002-01-27,Sevilla,3 - 0,Espanyol,Ganó,3,0,3
+2002-01-20,Sevilla,4 - 2,Real Zaragoza,Ganó,4,2,2
+2002-01-13,Barcelona,3 - 1,Sevilla,Perdió,3,1,2
+2002-01-05,Villarreal,0 - 2,Sevilla,Ganó,0,2,2
+2001-12-22,Sevilla,0 - 1,Celta,Perdió,0,1,1
+2001-12-16,Deportivo Alavés,0 - 1,Sevilla,Ganó,0,1,1
+2001-12-08,Sevilla,3 - 3,Athletic,Empató,3,3,0
+2001-12-02,Las Palmas,1 - 0,Sevilla,Perdió,1,0,1
+2001-11-25,Sevilla,4 - 0,Real Valladolid,Ganó,4,0,4
+2001-11-17,Real Madrid,2 - 1,Sevilla,Perdió,2,1,1
+2001-11-10,Sevilla,0 - 0,Real Betis,Empató,0,0,0
+2001-11-04,Málaga,1 - 3,Sevilla,Ganó,1,3,2
+2001-10-28,Sevilla,1 - 1,Valencia,Empató,1,1,0
+2001-10-20,RC Deportivo,1 - 0,Sevilla,Perdió,1,0,1
+2001-10-13,Sevilla,2 - 2,Mallorca,Empató,2,2,0
+2001-10-07,R. Sociedad,3 - 3,Sevilla,Empató,3,3,0
+2001-10-03,Sevilla,2 - 0,Tenerife,Ganó,2,0,2
+2001-09-30,Osasuna,1 - 0,Sevilla,Perdió,1,0,1
+2001-09-23,Sevilla,2 - 1,Rayo Vallecano,Ganó,2,1,1
+2001-09-16,Espanyol,2 - 3,Sevilla,Ganó,2,3,1
+2001-09-09,Real Zaragoza,1 - 1,Sevilla,Empató,1,1,0
+2001-08-26,Sevilla,1 - 2,Barcelona,Perdió,1,2,1
+2001-06-16,Sevilla,2 - 1,Eibar,Ganó,2,1,1
+2001-06-09,CF Extremadura,1 - 1,Sevilla,Empató,1,1,0
+2001-06-03,Sevilla,1 - 0,Tenerife,Ganó,1,0,1
+2001-05-26,Universidad LPGC,1 - 3,Sevilla,Ganó,1,3,2
+2001-05-20,Sevilla,2 - 0,Córdoba,Ganó,2,0,2
+2001-05-12,Atlético,2 - 0,Sevilla,Perdió,2,0,2
+2001-05-06,Sevilla,5 - 2,CD Badajoz,Ganó,5,2,3
+2001-04-29,Racing Ferrol,1 - 1,Sevilla,Empató,1,1,0
+2001-04-22,Sevilla,1 - 1,Real Betis,Empató,1,1,0
+2001-04-14,SD Compostela,0 - 2,Sevilla,Ganó,0,2,2
+2001-04-07,Sevilla,0 - 1,Real Jaén,Perdió,0,1,1
+2001-04-01,Recreativo,1 - 1,Sevilla,Empató,1,1,0
+2001-03-25,Sevilla,3 - 2,Levante,Ganó,3,2,1
+2001-03-18,Getafe,0 - 1,Sevilla,Ganó,0,1,1
+2001-03-10,Sevilla,1 - 1,Real Sporting,Empató,1,1,0
+2001-03-04,Albacete,2 - 1,Sevilla,Perdió,2,1,1
+2001-02-25,Sevilla,4 - 2,Leganés,Ganó,4,2,2
+2001-02-18,Lleida,0 - 1,Sevilla,Ganó,0,1,1
+2001-02-10,Sevilla,1 - 1,Elche,Empató,1,1,0
+2001-02-04,Sevilla,2 - 0,UD Salamanca,Ganó,2,0,2
+2001-01-28,Real Murcia,1 - 1,Sevilla,Empató,1,1,0
+2001-01-20,Eibar,1 - 0,Sevilla,Perdió,1,0,1
+2001-01-13,Sevilla,3 - 0,CF Extremadura,Ganó,3,0,3
+2001-01-07,Tenerife,1 - 2,Sevilla,Ganó,1,2,1
+2000-12-20,Sevilla,2 - 2,Universidad LPGC,Empató,2,2,0
+2000-12-17,Córdoba,0 - 1,Sevilla,Ganó,0,1,1
+2000-12-10,Sevilla,3 - 1,Atlético,Ganó,3,1,2
+2000-12-03,CD Badajoz,2 - 0,Sevilla,Perdió,2,0,2
+2000-11-26,Sevilla,3 - 0,Racing Ferrol,Ganó,3,0,3
+2000-11-19,Real Betis,1 - 3,Sevilla,Ganó,1,3,2
+2000-11-12,Sevilla,4 - 0,SD Compostela,Ganó,4,0,4
+2000-11-04,Real Jaén,2 - 1,Sevilla,Perdió,2,1,1
+2000-11-01,Sevilla,0 - 0,Recreativo,Empató,0,0,0
+2000-10-28,Levante,2 - 0,Sevilla,Perdió,2,0,2
+2000-10-22,Sevilla,1 - 1,Getafe,Empató,1,1,0
+2000-10-15,Real Sporting,3 - 0,Sevilla,Perdió,3,0,3
+2000-10-08,Sevilla,1 - 0,Albacete,Ganó,1,0,1
+2000-09-30,Leganés,1 - 1,Sevilla,Empató,1,1,0
+2000-09-24,Sevilla,2 - 0,Lleida,Ganó,2,0,2
+2000-09-16,Elche,1 - 2,Sevilla,Ganó,1,2,1
+2000-09-10,UD Salamanca,0 - 1,Sevilla,Ganó,0,1,1
+2000-09-03,Sevilla,2 - 1,Real Murcia,Ganó,2,1,1

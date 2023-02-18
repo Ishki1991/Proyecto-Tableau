@@ -1,0 +1,837 @@
+Fecha,Equipo1,Score,Equipo2,Resultado,Goles_equipo1,Goles_equipo2,Diferencia_goles
+2022-05-21,Valencia,2 - 0,Celta,Ganó,2,0,2
+2022-05-14,Espanyol,1 - 1,Valencia,Empató,1,1,0
+2022-05-10,Valencia,0 - 3,Real Betis,Perdió,0,3,3
+2022-05-07,Athletic,0 - 0,Valencia,Empató,0,0,0
+2022-04-30,Valencia,1 - 1,Levante,Empató,1,1,0
+2022-04-19,Villarreal,2 - 0,Valencia,Perdió,2,0,2
+2022-04-16,Valencia,1 - 2,Osasuna,Perdió,1,2,1
+2022-04-11,Rayo Vallecano,1 - 1,Valencia,Empató,1,1,0
+2022-04-03,Valencia,0 - 0,Cádiz,Empató,0,0,0
+2022-03-19,Elche,0 - 1,Valencia,Ganó,0,1,1
+2022-03-12,Getafe,0 - 0,Valencia,Empató,0,0,0
+2022-03-05,Valencia,3 - 1,Granada,Ganó,3,1,2
+2022-02-26,Mallorca,0 - 1,Valencia,Ganó,0,1,1
+2022-02-20,Valencia,1 - 4,Barcelona,Perdió,1,4,3
+2022-02-13,Deportivo Alavés,2 - 1,Valencia,Perdió,2,1,1
+2022-02-06,Valencia,0 - 0,R. Sociedad,Empató,0,0,0
+2022-01-22,Atlético,3 - 2,Valencia,Perdió,3,2,1
+2022-01-19,Valencia,1 - 1,Sevilla,Empató,1,1,0
+2022-01-08,Real Madrid,4 - 1,Valencia,Perdió,4,1,3
+2021-12-31,Valencia,1 - 2,Espanyol,Perdió,1,2,1
+2021-12-20,Levante,3 - 4,Valencia,Ganó,3,4,1
+2021-12-11,Valencia,2 - 1,Elche,Ganó,2,1,1
+2021-12-05,Celta,1 - 2,Valencia,Ganó,1,2,1
+2021-11-27,Valencia,1 - 1,Rayo Vallecano,Empató,1,1,0
+2021-11-21,R. Sociedad,0 - 0,Valencia,Empató,0,0,0
+2021-11-07,Valencia,3 - 3,Atlético,Empató,3,3,0
+2021-10-30,Valencia,2 - 0,Villarreal,Ganó,2,0,2
+2021-10-27,Real Betis,4 - 1,Valencia,Perdió,4,1,3
+2021-10-23,Valencia,2 - 2,Mallorca,Empató,2,2,0
+2021-10-17,Barcelona,3 - 1,Valencia,Perdió,3,1,2
+2021-10-02,Cádiz,0 - 0,Valencia,Empató,0,0,0
+2021-09-25,Valencia,1 - 1,Athletic,Empató,1,1,0
+2021-09-22,Sevilla,3 - 1,Valencia,Perdió,3,1,2
+2021-09-19,Valencia,1 - 2,Real Madrid,Perdió,1,2,1
+2021-09-12,Osasuna,1 - 4,Valencia,Ganó,1,4,3
+2021-08-27,Valencia,3 - 0,Deportivo Alavés,Ganó,3,0,3
+2021-08-21,Granada,1 - 1,Valencia,Empató,1,1,0
+2021-08-13,Valencia,1 - 0,Getafe,Ganó,1,0,1
+2021-05-22,Huesca,0 - 0,Valencia,Empató,0,0,0
+2021-05-16,Valencia,4 - 1,Eibar,Ganó,4,1,3
+2021-05-12,Sevilla,1 - 0,Valencia,Perdió,1,0,1
+2021-05-09,Valencia,3 - 0,Real Valladolid,Ganó,3,0,3
+2021-05-02,Valencia,2 - 3,Barcelona,Perdió,2,3,1
+2021-04-24,Valencia,1 - 1,Deportivo Alavés,Empató,1,1,0
+2021-04-21,Osasuna,3 - 1,Valencia,Perdió,3,1,2
+2021-04-18,Real Betis,2 - 2,Valencia,Empató,2,2,0
+2021-04-11,Valencia,2 - 2,R. Sociedad,Empató,2,2,0
+2021-04-04,Cádiz,2 - 1,Valencia,Perdió,2,1,1
+2021-03-21,Valencia,2 - 1,Granada,Ganó,2,1,1
+2021-03-12,Levante,1 - 0,Valencia,Perdió,1,0,1
+2021-03-05,Valencia,2 - 1,Villarreal,Ganó,2,1,1
+2021-02-27,Getafe,3 - 0,Valencia,Perdió,3,0,3
+2021-02-20,Valencia,2 - 0,Celta,Ganó,2,0,2
+2021-02-14,Real Madrid,2 - 0,Valencia,Perdió,2,0,2
+2021-02-07,Athletic,1 - 1,Valencia,Empató,1,1,0
+2021-01-30,Valencia,1 - 0,Elche,Ganó,1,0,1
+2021-01-24,Atlético,3 - 1,Valencia,Perdió,3,1,2
+2021-01-21,Valencia,1 - 1,Osasuna,Empató,1,1,0
+2021-01-10,Real Valladolid,0 - 1,Valencia,Ganó,0,1,1
+2021-01-04,Valencia,1 - 1,Cádiz,Empató,1,1,0
+2020-12-30,Granada,2 - 1,Valencia,Perdió,2,1,1
+2020-12-22,Valencia,0 - 1,Sevilla,Perdió,0,1,1
+2020-12-19,Barcelona,2 - 2,Valencia,Empató,2,2,0
+2020-12-12,Valencia,2 - 2,Athletic,Empató,2,2,0
+2020-12-07,Eibar,0 - 0,Valencia,Empató,0,0,0
+2020-11-28,Valencia,0 - 1,Atlético,Perdió,0,1,1
+2020-11-22,Deportivo Alavés,2 - 2,Valencia,Empató,2,2,0
+2020-11-08,Valencia,4 - 1,Real Madrid,Ganó,4,1,3
+2020-11-01,Valencia,2 - 2,Getafe,Empató,2,2,0
+2020-10-23,Elche,2 - 1,Valencia,Perdió,2,1,1
+2020-10-18,Villarreal,2 - 1,Valencia,Perdió,2,1,1
+2020-10-03,Valencia,0 - 2,Real Betis,Perdió,0,2,2
+2020-09-29,R. Sociedad,0 - 1,Valencia,Ganó,0,1,1
+2020-09-26,Valencia,1 - 1,Huesca,Empató,1,1,0
+2020-09-19,Celta,2 - 1,Valencia,Perdió,2,1,1
+2020-09-13,Valencia,4 - 2,Levante,Ganó,4,2,2
+2020-07-19,Sevilla,1 - 0,Valencia,Perdió,1,0,1
+2020-07-16,Valencia,1 - 0,Espanyol,Ganó,1,0,1
+2020-07-12,Leganés,1 - 0,Valencia,Perdió,1,0,1
+2020-07-07,Valencia,2 - 1,Real Valladolid,Ganó,2,1,1
+2020-07-04,Granada,2 - 2,Valencia,Empató,2,2,0
+2020-07-01,Valencia,0 - 2,Athletic,Perdió,0,2,2
+2020-06-28,Villarreal,2 - 0,Valencia,Perdió,2,0,2
+2020-06-25,Eibar,1 - 0,Valencia,Perdió,1,0,1
+2020-06-21,Valencia,2 - 0,Osasuna,Ganó,2,0,2
+2020-06-18,Real Madrid,3 - 0,Valencia,Perdió,3,0,3
+2020-06-12,Valencia,1 - 1,Levante,Empató,1,1,0
+2020-03-06,Deportivo Alavés,1 - 1,Valencia,Empató,1,1,0
+2020-02-29,Valencia,2 - 1,Real Betis,Ganó,2,1,1
+2020-02-22,R. Sociedad,3 - 0,Valencia,Perdió,3,0,3
+2020-02-14,Valencia,2 - 2,Atlético,Empató,2,2,0
+2020-02-08,Getafe,3 - 0,Valencia,Perdió,3,0,3
+2020-02-01,Valencia,1 - 0,Celta,Ganó,1,0,1
+2020-01-25,Valencia,2 - 0,Barcelona,Ganó,2,0,2
+2020-01-19,Mallorca,4 - 1,Valencia,Perdió,4,1,3
+2020-01-04,Valencia,1 - 0,Eibar,Ganó,1,0,1
+2019-12-21,Real Valladolid,1 - 1,Valencia,Empató,1,1,0
+2019-12-15,Valencia,1 - 1,Real Madrid,Empató,1,1,0
+2019-12-07,Levante,2 - 4,Valencia,Ganó,2,4,2
+2019-11-30,Valencia,2 - 1,Villarreal,Ganó,2,1,1
+2019-11-23,Real Betis,2 - 1,Valencia,Perdió,2,1,1
+2019-11-09,Valencia,2 - 0,Granada,Ganó,2,0,2
+2019-11-02,Espanyol,1 - 2,Valencia,Ganó,1,2,1
+2019-10-30,Valencia,1 - 1,Sevilla,Empató,1,1,0
+2019-10-27,Osasuna,3 - 1,Valencia,Perdió,3,1,2
+2019-10-19,Atlético,1 - 1,Valencia,Empató,1,1,0
+2019-10-05,Valencia,2 - 1,Deportivo Alavés,Ganó,2,1,1
+2019-09-28,Athletic,0 - 1,Valencia,Ganó,0,1,1
+2019-09-25,Valencia,3 - 3,Getafe,Empató,3,3,0
+2019-09-22,Valencia,1 - 1,Leganés,Empató,1,1,0
+2019-09-14,Barcelona,5 - 2,Valencia,Perdió,5,2,3
+2019-09-01,Valencia,2 - 0,Mallorca,Ganó,2,0,2
+2019-08-24,Celta,1 - 0,Valencia,Perdió,1,0,1
+2019-08-17,Valencia,1 - 1,R. Sociedad,Empató,1,1,0
+2019-05-18,Real Valladolid,0 - 2,Valencia,Ganó,0,2,2
+2019-05-12,Valencia,3 - 1,Deportivo Alavés,Ganó,3,1,2
+2019-05-05,Huesca,2 - 6,Valencia,Ganó,2,6,4
+2019-04-28,Valencia,0 - 1,Eibar,Perdió,0,1,1
+2019-04-24,Atlético,3 - 2,Valencia,Perdió,3,2,1
+2019-04-21,Real Betis,1 - 2,Valencia,Ganó,1,2,1
+2019-04-14,Valencia,3 - 1,Levante,Ganó,3,1,2
+2019-04-06,Rayo Vallecano,2 - 0,Valencia,Perdió,2,0,2
+2019-04-03,Valencia,2 - 1,Real Madrid,Ganó,2,1,1
+2019-03-31,Sevilla,0 - 1,Valencia,Ganó,0,1,1
+2019-03-17,Valencia,0 - 0,Getafe,Empató,0,0,0
+2019-03-10,Girona,2 - 3,Valencia,Ganó,2,3,1
+2019-03-03,Valencia,2 - 0,Athletic,Ganó,2,0,2
+2019-02-24,Leganés,1 - 1,Valencia,Empató,1,1,0
+2019-02-17,Valencia,0 - 0,Espanyol,Empató,0,0,0
+2019-02-10,Valencia,0 - 0,R. Sociedad,Empató,0,0,0
+2019-02-02,Barcelona,2 - 2,Valencia,Empató,2,2,0
+2019-01-26,Valencia,3 - 0,Villarreal,Ganó,3,0,3
+2019-01-19,Celta,1 - 2,Valencia,Ganó,1,2,1
+2019-01-12,Valencia,1 - 1,Real Valladolid,Empató,1,1,0
+2019-01-05,Deportivo Alavés,2 - 1,Valencia,Perdió,2,1,1
+2018-12-23,Valencia,2 - 1,Huesca,Ganó,2,1,1
+2018-12-15,Eibar,1 - 1,Valencia,Empató,1,1,0
+2018-12-08,Valencia,1 - 1,Sevilla,Empató,1,1,0
+2018-12-01,Real Madrid,2 - 0,Valencia,Perdió,2,0,2
+2018-11-24,Valencia,3 - 0,Rayo Vallecano,Ganó,3,0,3
+2018-11-10,Getafe,0 - 1,Valencia,Ganó,0,1,1
+2018-11-03,Valencia,0 - 1,Girona,Perdió,0,1,1
+2018-10-27,Athletic,0 - 0,Valencia,Empató,0,0,0
+2018-10-20,Valencia,1 - 1,Leganés,Empató,1,1,0
+2018-10-07,Valencia,1 - 1,Barcelona,Empató,1,1,0
+2018-09-29,R. Sociedad,0 - 1,Valencia,Ganó,0,1,1
+2018-09-26,Valencia,1 - 1,Celta,Empató,1,1,0
+2018-09-23,Villarreal,0 - 0,Valencia,Empató,0,0,0
+2018-09-15,Valencia,0 - 0,Real Betis,Empató,0,0,0
+2018-09-02,Levante,2 - 2,Valencia,Empató,2,2,0
+2018-08-26,Espanyol,2 - 0,Valencia,Perdió,2,0,2
+2018-08-20,Valencia,1 - 1,Atlético,Empató,1,1,0
+2018-05-20,Valencia,2 - 1,RC Deportivo,Ganó,2,1,1
+2018-05-12,Girona,0 - 1,Valencia,Ganó,0,1,1
+2018-05-05,Villarreal,1 - 0,Valencia,Perdió,1,0,1
+2018-04-29,Valencia,0 - 0,Eibar,Empató,0,0,0
+2018-04-21,Celta,1 - 1,Valencia,Empató,1,1,0
+2018-04-18,Valencia,1 - 2,Getafe,Perdió,1,2,1
+2018-04-14,Barcelona,2 - 1,Valencia,Perdió,2,1,1
+2018-04-08,Valencia,1 - 0,Espanyol,Ganó,1,0,1
+2018-04-01,Leganés,0 - 1,Valencia,Ganó,0,1,1
+2018-03-17,Valencia,3 - 1,Deportivo Alavés,Ganó,3,1,2
+2018-03-10,Sevilla,0 - 2,Valencia,Ganó,0,2,2
+2018-03-04,Valencia,2 - 0,Real Betis,Ganó,2,0,2
+2018-02-28,Athletic,1 - 1,Valencia,Empató,1,1,0
+2018-02-25,Valencia,2 - 1,R. Sociedad,Ganó,2,1,1
+2018-02-17,Málaga,1 - 2,Valencia,Ganó,1,2,1
+2018-02-11,Valencia,3 - 1,Levante,Ganó,3,1,2
+2018-02-04,Atlético,1 - 0,Valencia,Perdió,1,0,1
+2018-01-27,Valencia,1 - 4,Real Madrid,Perdió,1,4,3
+2018-01-20,Las Palmas,2 - 1,Valencia,Perdió,2,1,1
+2018-01-13,RC Deportivo,1 - 2,Valencia,Ganó,1,2,1
+2018-01-06,Valencia,2 - 1,Girona,Ganó,2,1,1
+2017-12-23,Valencia,0 - 1,Villarreal,Perdió,0,1,1
+2017-12-16,Eibar,2 - 1,Valencia,Perdió,2,1,1
+2017-12-09,Valencia,2 - 1,Celta,Ganó,2,1,1
+2017-12-03,Getafe,1 - 0,Valencia,Perdió,1,0,1
+2017-11-26,Valencia,1 - 1,Barcelona,Empató,1,1,0
+2017-11-19,Espanyol,0 - 2,Valencia,Ganó,0,2,2
+2017-11-04,Valencia,3 - 0,Leganés,Ganó,3,0,3
+2017-10-28,Deportivo Alavés,1 - 2,Valencia,Ganó,1,2,1
+2017-10-21,Valencia,4 - 0,Sevilla,Ganó,4,0,4
+2017-10-15,Real Betis,3 - 6,Valencia,Ganó,3,6,3
+2017-10-01,Valencia,3 - 2,Athletic,Ganó,3,2,1
+2017-09-24,R. Sociedad,2 - 3,Valencia,Ganó,2,3,1
+2017-09-19,Valencia,5 - 0,Málaga,Ganó,5,0,5
+2017-09-16,Levante,1 - 1,Valencia,Empató,1,1,0
+2017-09-09,Valencia,0 - 0,Atlético,Empató,0,0,0
+2017-08-27,Real Madrid,2 - 2,Valencia,Empató,2,2,0
+2017-08-18,Valencia,1 - 0,Las Palmas,Ganó,1,0,1
+2017-05-21,Valencia,1 - 3,Villarreal,Perdió,1,3,2
+2017-05-13,Espanyol,0 - 1,Valencia,Ganó,0,1,1
+2017-05-07,Valencia,4 - 1,Osasuna,Ganó,4,1,3
+2017-04-29,Real Madrid,2 - 1,Valencia,Perdió,2,1,1
+2017-04-26,Valencia,2 - 3,R. Sociedad,Perdió,2,3,1
+2017-04-22,Málaga,2 - 0,Valencia,Perdió,2,0,2
+2017-04-16,Valencia,0 - 0,Sevilla,Empató,0,0,0
+2017-04-09,Granada,1 - 3,Valencia,Ganó,1,3,2
+2017-04-06,Valencia,3 - 2,Celta,Ganó,3,2,1
+2017-04-02,Valencia,3 - 0,RC Deportivo,Ganó,3,0,3
+2017-03-19,Barcelona,4 - 2,Valencia,Perdió,4,2,2
+2017-03-11,Valencia,1 - 1,Real Sporting,Empató,1,1,0
+2017-03-05,Atlético,3 - 0,Valencia,Perdió,3,0,3
+2017-02-28,Valencia,1 - 0,Leganés,Ganó,1,0,1
+2017-02-25,Deportivo Alavés,2 - 1,Valencia,Perdió,2,1,1
+2017-02-22,Valencia,2 - 1,Real Madrid,Ganó,2,1,1
+2017-02-19,Valencia,2 - 0,Athletic,Ganó,2,0,2
+2017-02-11,Real Betis,0 - 0,Valencia,Empató,0,0,0
+2017-02-04,Valencia,0 - 4,Eibar,Perdió,0,4,4
+2017-01-30,Las Palmas,3 - 1,Valencia,Perdió,3,1,2
+2017-01-21,Villarreal,0 - 2,Valencia,Ganó,0,2,2
+2017-01-15,Valencia,2 - 1,Espanyol,Ganó,2,1,1
+2017-01-09,Osasuna,3 - 3,Valencia,Empató,3,3,0
+2016-12-10,R. Sociedad,3 - 2,Valencia,Perdió,3,2,1
+2016-12-04,Valencia,2 - 2,Málaga,Empató,2,2,0
+2016-11-26,Sevilla,2 - 1,Valencia,Perdió,2,1,1
+2016-11-20,Valencia,1 - 1,Granada,Empató,1,1,0
+2016-11-06,Celta,2 - 1,Valencia,Perdió,2,1,1
+2016-10-31,RC Deportivo,1 - 1,Valencia,Empató,1,1,0
+2016-10-22,Valencia,2 - 3,Barcelona,Perdió,2,3,1
+2016-10-16,Real Sporting,1 - 2,Valencia,Ganó,1,2,1
+2016-10-02,Valencia,0 - 2,Atlético,Perdió,0,2,2
+2016-09-25,Leganés,1 - 2,Valencia,Ganó,1,2,1
+2016-09-22,Valencia,2 - 1,Deportivo Alavés,Ganó,2,1,1
+2016-09-18,Athletic,2 - 1,Valencia,Perdió,2,1,1
+2016-09-11,Valencia,2 - 3,Real Betis,Perdió,2,3,1
+2016-08-27,Eibar,1 - 0,Valencia,Perdió,1,0,1
+2016-08-22,Valencia,2 - 4,Las Palmas,Perdió,2,4,2
+2016-05-13,Valencia,0 - 1,R. Sociedad,Perdió,0,1,1
+2016-05-08,Real Madrid,3 - 2,Valencia,Perdió,3,2,1
+2016-05-01,Valencia,0 - 2,Villarreal,Perdió,0,2,2
+2016-04-24,Getafe,2 - 2,Valencia,Empató,2,2,0
+2016-04-20,Valencia,4 - 0,Eibar,Ganó,4,0,4
+2016-04-17,Barcelona,1 - 2,Valencia,Ganó,1,2,1
+2016-04-10,Valencia,2 - 1,Sevilla,Ganó,2,1,1
+2016-04-02,Las Palmas,2 - 1,Valencia,Perdió,2,1,1
+2016-03-20,Valencia,0 - 2,Celta,Perdió,0,2,2
+2016-03-13,Levante,1 - 0,Valencia,Perdió,1,0,1
+2016-03-06,Valencia,1 - 3,Atlético,Perdió,1,3,2
+2016-03-02,Málaga,1 - 2,Valencia,Ganó,1,2,1
+2016-02-28,Valencia,0 - 3,Athletic,Perdió,0,3,3
+2016-02-21,Granada,1 - 2,Valencia,Ganó,1,2,1
+2016-02-13,Valencia,2 - 1,Espanyol,Ganó,2,1,1
+2016-02-07,Real Betis,1 - 0,Valencia,Perdió,1,0,1
+2016-01-31,Valencia,0 - 1,Real Sporting,Perdió,0,1,1
+2016-01-24,RC Deportivo,1 - 1,Valencia,Empató,1,1,0
+2016-01-17,Valencia,2 - 2,Rayo Vallecano,Empató,2,2,0
+2016-01-10,R. Sociedad,2 - 0,Valencia,Perdió,2,0,2
+2016-01-03,Valencia,2 - 2,Real Madrid,Empató,2,2,0
+2015-12-31,Villarreal,1 - 0,Valencia,Perdió,1,0,1
+2015-12-19,Valencia,2 - 2,Getafe,Empató,2,2,0
+2015-12-13,Eibar,1 - 1,Valencia,Empató,1,1,0
+2015-12-05,Valencia,1 - 1,Barcelona,Empató,1,1,0
+2015-11-29,Sevilla,1 - 0,Valencia,Perdió,1,0,1
+2015-11-21,Valencia,1 - 1,Las Palmas,Empató,1,1,0
+2015-11-07,Celta,1 - 5,Valencia,Ganó,1,5,4
+2015-10-31,Valencia,3 - 0,Levante,Ganó,3,0,3
+2015-10-25,Atlético,2 - 1,Valencia,Perdió,2,1,1
+2015-10-17,Valencia,3 - 0,Málaga,Ganó,3,0,3
+2015-10-04,Athletic,3 - 1,Valencia,Perdió,3,1,2
+2015-09-25,Valencia,1 - 0,Granada,Ganó,1,0,1
+2015-09-22,Espanyol,1 - 0,Valencia,Perdió,1,0,1
+2015-09-19,Valencia,0 - 0,Real Betis,Empató,0,0,0
+2015-09-12,Real Sporting,0 - 1,Valencia,Ganó,0,1,1
+2015-08-30,Valencia,1 - 1,RC Deportivo,Empató,1,1,0
+2015-08-22,Rayo Vallecano,0 - 0,Valencia,Empató,0,0,0
+2015-05-23,Almería,2 - 3,Valencia,Ganó,2,3,1
+2015-05-17,Valencia,1 - 1,Celta,Empató,1,1,0
+2015-05-09,Real Madrid,2 - 2,Valencia,Empató,2,2,0
+2015-05-03,Valencia,3 - 1,Eibar,Ganó,3,1,2
+2015-04-30,Rayo Vallecano,1 - 1,Valencia,Empató,1,1,0
+2015-04-27,Valencia,4 - 0,Granada,Ganó,4,0,4
+2015-04-18,Barcelona,2 - 0,Valencia,Perdió,2,0,2
+2015-04-13,Valencia,3 - 0,Levante,Ganó,3,0,3
+2015-04-09,Athletic,1 - 1,Valencia,Empató,1,1,0
+2015-04-05,Valencia,0 - 0,Villarreal,Empató,0,0,0
+2015-03-20,Elche,0 - 4,Valencia,Ganó,0,4,4
+2015-03-13,Valencia,2 - 0,RC Deportivo,Ganó,2,0,2
+2015-03-08,Atlético,1 - 1,Valencia,Empató,1,1,0
+2015-03-01,Valencia,2 - 0,R. Sociedad,Ganó,2,0,2
+2015-02-21,Córdoba,1 - 2,Valencia,Ganó,1,2,1
+2015-02-15,Valencia,1 - 0,Getafe,Ganó,1,0,1
+2015-02-08,Espanyol,1 - 2,Valencia,Ganó,1,2,1
+2015-02-02,Málaga,1 - 0,Valencia,Perdió,1,0,1
+2015-01-25,Valencia,3 - 1,Sevilla,Ganó,3,1,2
+2015-01-17,Valencia,3 - 2,Almería,Ganó,3,2,1
+2015-01-10,Celta,1 - 1,Valencia,Empató,1,1,0
+2015-01-04,Valencia,2 - 1,Real Madrid,Ganó,2,1,1
+2014-12-20,Eibar,0 - 1,Valencia,Ganó,0,1,1
+2014-12-13,Valencia,3 - 0,Rayo Vallecano,Ganó,3,0,3
+2014-12-07,Granada,1 - 1,Valencia,Empató,1,1,0
+2014-11-30,Valencia,0 - 1,Barcelona,Perdió,0,1,1
+2014-11-23,Levante,2 - 1,Valencia,Perdió,2,1,1
+2014-11-09,Valencia,0 - 0,Athletic,Empató,0,0,0
+2014-11-02,Villarreal,1 - 3,Valencia,Ganó,1,3,2
+2014-10-25,Valencia,3 - 1,Elche,Ganó,3,1,2
+2014-10-19,RC Deportivo,3 - 0,Valencia,Perdió,3,0,3
+2014-10-04,Valencia,3 - 1,Atlético,Ganó,3,1,2
+2014-09-28,R. Sociedad,1 - 1,Valencia,Empató,1,1,0
+2014-09-25,Valencia,3 - 0,Córdoba,Ganó,3,0,3
+2014-09-22,Getafe,0 - 3,Valencia,Ganó,0,3,3
+2014-09-14,Valencia,3 - 1,Espanyol,Ganó,3,1,2
+2014-08-29,Valencia,3 - 0,Málaga,Ganó,3,0,3
+2014-08-23,Sevilla,1 - 1,Valencia,Empató,1,1,0
+2014-05-17,Valencia,2 - 1,Celta,Ganó,2,1,1
+2014-05-10,Levante,2 - 0,Valencia,Perdió,2,0,2
+2014-05-04,Real Madrid,2 - 2,Valencia,Empató,2,2,0
+2014-04-27,Valencia,0 - 1,Atlético,Perdió,0,1,1
+2014-04-19,Osasuna,1 - 1,Valencia,Empató,1,1,0
+2014-04-13,Valencia,2 - 1,Elche,Ganó,2,1,1
+2014-04-06,Real Valladolid,0 - 0,Valencia,Empató,0,0,0
+2014-03-30,Valencia,1 - 3,Getafe,Perdió,1,3,2
+2014-03-27,Almería,2 - 2,Valencia,Empató,2,2,0
+2014-03-23,Valencia,2 - 1,Villarreal,Ganó,2,1,1
+2014-03-16,R. Sociedad,1 - 0,Valencia,Perdió,1,0,1
+2014-03-09,Valencia,1 - 1,Athletic,Empató,1,1,0
+2014-03-02,Rayo Vallecano,1 - 0,Valencia,Perdió,1,0,1
+2014-02-23,Valencia,2 - 1,Granada,Ganó,2,1,1
+2014-02-16,Sevilla,0 - 0,Valencia,Empató,0,0,0
+2014-02-08,Valencia,5 - 0,Real Betis,Ganó,5,0,5
+2014-02-01,Barcelona,2 - 3,Valencia,Ganó,2,3,1
+2014-01-25,Valencia,2 - 2,Espanyol,Empató,2,2,0
+2014-01-17,Málaga,0 - 0,Valencia,Empató,0,0,0
+2014-01-11,Celta,2 - 1,Valencia,Perdió,2,1,1
+2014-01-04,Valencia,2 - 0,Levante,Ganó,2,0,2
+2013-12-22,Valencia,2 - 3,Real Madrid,Perdió,2,3,1
+2013-12-15,Atlético,3 - 0,Valencia,Perdió,3,0,3
+2013-12-01,Valencia,3 - 0,Osasuna,Ganó,3,0,3
+2013-11-24,Elche,2 - 1,Valencia,Perdió,2,1,1
+2013-11-10,Valencia,2 - 2,Real Valladolid,Empató,2,2,0
+2013-11-03,Getafe,0 - 1,Valencia,Ganó,0,1,1
+2013-10-30,Valencia,1 - 2,Almería,Perdió,1,2,1
+2013-10-27,Villarreal,4 - 1,Valencia,Perdió,4,1,3
+2013-10-19,Valencia,1 - 2,R. Sociedad,Perdió,1,2,1
+2013-10-06,Athletic,1 - 1,Valencia,Empató,1,1,0
+2013-09-28,Valencia,1 - 0,Rayo Vallecano,Ganó,1,0,1
+2013-09-25,Granada,0 - 1,Valencia,Ganó,0,1,1
+2013-09-22,Valencia,3 - 1,Sevilla,Ganó,3,1,2
+2013-09-15,Real Betis,3 - 1,Valencia,Perdió,3,1,2
+2013-09-01,Valencia,2 - 3,Barcelona,Perdió,2,3,1
+2013-08-24,Espanyol,3 - 1,Valencia,Perdió,3,1,2
+2013-08-17,Valencia,1 - 0,Málaga,Ganó,1,0,1
+2013-06-01,Sevilla,4 - 3,Valencia,Perdió,4,3,1
+2013-05-26,Valencia,1 - 0,Granada,Ganó,1,0,1
+2013-05-18,Getafe,0 - 1,Valencia,Ganó,0,1,1
+2013-05-12,Rayo Vallecano,0 - 4,Valencia,Ganó,0,4,4
+2013-05-04,Valencia,4 - 0,Osasuna,Ganó,4,0,4
+2013-04-28,R. Sociedad,4 - 2,Valencia,Perdió,4,2,2
+2013-04-20,Valencia,5 - 1,Málaga,Ganó,5,1,4
+2013-04-13,Espanyol,3 - 3,Valencia,Empató,3,3,0
+2013-04-07,Valencia,2 - 1,Real Valladolid,Ganó,2,1,1
+2013-03-31,Atlético,1 - 1,Valencia,Empató,1,1,0
+2013-03-16,Valencia,3 - 0,Real Betis,Ganó,3,0,3
+2013-03-10,Athletic,1 - 0,Valencia,Perdió,1,0,1
+2013-03-02,Valencia,2 - 2,Levante,Empató,2,2,0
+2013-02-23,Real Zaragoza,2 - 2,Valencia,Empató,2,2,0
+2013-02-17,Valencia,2 - 0,Mallorca,Ganó,2,0,2
+2013-02-09,Celta,0 - 1,Valencia,Ganó,0,1,1
+2013-02-03,Valencia,1 - 1,Barcelona,Empató,1,1,0
+2013-01-26,RC Deportivo,2 - 3,Valencia,Ganó,2,3,1
+2013-01-20,Valencia,0 - 5,Real Madrid,Perdió,0,5,5
+2013-01-12,Valencia,2 - 0,Sevilla,Ganó,2,0,2
+2013-01-05,Granada,1 - 2,Valencia,Ganó,1,2,1
+2012-12-21,Valencia,4 - 2,Getafe,Ganó,4,2,2
+2012-12-16,Valencia,0 - 1,Rayo Vallecano,Perdió,0,1,1
+2012-12-08,Osasuna,0 - 1,Valencia,Ganó,0,1,1
+2012-12-01,Valencia,2 - 5,R. Sociedad,Perdió,2,5,3
+2012-11-24,Málaga,4 - 0,Valencia,Perdió,4,0,4
+2012-11-17,Valencia,2 - 1,Espanyol,Ganó,2,1,1
+2012-11-11,Real Valladolid,1 - 1,Valencia,Empató,1,1,0
+2012-11-03,Valencia,2 - 0,Atlético,Ganó,2,0,2
+2012-10-27,Real Betis,1 - 0,Valencia,Perdió,1,0,1
+2012-10-20,Valencia,3 - 2,Athletic,Ganó,3,2,1
+2012-10-07,Levante,1 - 0,Valencia,Perdió,1,0,1
+2012-09-29,Valencia,2 - 0,Real Zaragoza,Ganó,2,0,2
+2012-09-23,Mallorca,2 - 0,Valencia,Perdió,2,0,2
+2012-09-15,Valencia,2 - 1,Celta,Ganó,2,1,1
+2012-09-02,Barcelona,1 - 0,Valencia,Perdió,1,0,1
+2012-08-26,Valencia,3 - 3,RC Deportivo,Empató,3,3,0
+2012-08-19,Real Madrid,1 - 1,Valencia,Empató,1,1,0
+2012-05-12,R. Sociedad,1 - 0,Valencia,Perdió,1,0,1
+2012-05-05,Valencia,1 - 0,Villarreal,Ganó,1,0,1
+2012-05-02,Valencia,4 - 0,Osasuna,Ganó,4,0,4
+2012-04-29,Málaga,1 - 0,Valencia,Perdió,1,0,1
+2012-04-22,Valencia,4 - 0,Real Betis,Ganó,4,0,4
+2012-04-15,Espanyol,4 - 0,Valencia,Perdió,4,0,4
+2012-04-11,Valencia,4 - 1,Rayo Vallecano,Ganó,4,1,3
+2012-04-08,Real Madrid,0 - 0,Valencia,Empató,0,0,0
+2012-04-01,Valencia,1 - 1,Levante,Empató,1,1,0
+2012-03-24,Getafe,3 - 1,Valencia,Perdió,3,1,2
+2012-03-21,Valencia,1 - 2,Real Zaragoza,Perdió,1,2,1
+2012-03-18,Athletic,0 - 3,Valencia,Ganó,0,3,3
+2012-03-11,Valencia,2 - 2,Mallorca,Empató,2,2,0
+2012-03-04,Granada,0 - 1,Valencia,Ganó,0,1,1
+2012-02-26,Valencia,1 - 2,Sevilla,Perdió,1,2,1
+2012-02-19,Barcelona,5 - 1,Valencia,Perdió,5,1,4
+2012-02-12,Valencia,4 - 0,Real Sporting,Ganó,4,0,4
+2012-02-05,Atlético,0 - 0,Valencia,Empató,0,0,0
+2012-01-29,Racing,2 - 2,Valencia,Empató,2,2,0
+2012-01-22,Osasuna,1 - 1,Valencia,Empató,1,1,0
+2012-01-14,Valencia,0 - 1,R. Sociedad,Perdió,0,1,1
+2012-01-08,Villarreal,2 - 2,Valencia,Empató,2,2,0
+2011-12-18,Valencia,2 - 0,Málaga,Ganó,2,0,2
+2011-12-10,Real Betis,2 - 1,Valencia,Perdió,2,1,1
+2011-12-03,Valencia,2 - 1,Espanyol,Ganó,2,1,1
+2011-11-26,Rayo Vallecano,1 - 2,Valencia,Ganó,1,2,1
+2011-11-19,Valencia,2 - 3,Real Madrid,Perdió,2,3,1
+2011-11-05,Levante,0 - 2,Valencia,Ganó,0,2,2
+2011-10-29,Valencia,3 - 1,Getafe,Ganó,3,1,2
+2011-10-26,Real Zaragoza,0 - 1,Valencia,Ganó,0,1,1
+2011-10-23,Valencia,1 - 1,Athletic,Empató,1,1,0
+2011-10-15,Mallorca,1 - 1,Valencia,Empató,1,1,0
+2011-10-01,Valencia,1 - 0,Granada,Ganó,1,0,1
+2011-09-24,Sevilla,1 - 0,Valencia,Perdió,1,0,1
+2011-09-21,Valencia,2 - 2,Barcelona,Empató,2,2,0
+2011-09-17,Real Sporting,0 - 1,Valencia,Ganó,0,1,1
+2011-09-10,Valencia,1 - 0,Atlético,Ganó,1,0,1
+2011-08-27,Valencia,4 - 3,Racing,Ganó,4,3,1
+2011-05-21,RC Deportivo,0 - 2,Valencia,Ganó,0,2,2
+2011-05-15,Valencia,0 - 0,Levante,Empató,0,0,0
+2011-05-11,Espanyol,2 - 2,Valencia,Empató,2,2,0
+2011-05-07,Valencia,3 - 0,R. Sociedad,Ganó,3,0,3
+2011-05-01,Osasuna,1 - 0,Valencia,Perdió,1,0,1
+2011-04-23,Valencia,3 - 6,Real Madrid,Perdió,3,6,3
+2011-04-16,Almería,0 - 3,Valencia,Ganó,0,3,3
+2011-04-10,Valencia,5 - 0,Villarreal,Ganó,5,0,5
+2011-04-02,Getafe,2 - 4,Valencia,Ganó,2,4,2
+2011-03-20,Valencia,0 - 1,Sevilla,Perdió,0,1,1
+2011-03-12,Real Zaragoza,4 - 0,Valencia,Perdió,4,0,4
+2011-03-05,Mallorca,1 - 2,Valencia,Ganó,1,2,1
+2011-03-02,Valencia,0 - 1,Barcelona,Perdió,0,1,1
+2011-02-27,Athletic,1 - 2,Valencia,Ganó,1,2,1
+2011-02-19,Valencia,0 - 0,Real Sporting,Empató,0,0,0
+2011-02-12,Atlético,1 - 2,Valencia,Ganó,1,2,1
+2011-02-06,Valencia,2 - 0,Hércules,Ganó,2,0,2
+2011-01-31,Racing,1 - 1,Valencia,Empató,1,1,0
+2011-01-22,Valencia,4 - 3,Málaga,Ganó,4,3,1
+2011-01-16,Valencia,2 - 0,RC Deportivo,Ganó,2,0,2
+2011-01-09,Levante,0 - 1,Valencia,Ganó,0,1,1
+2011-01-02,Valencia,2 - 1,Espanyol,Ganó,2,1,1
+2010-12-18,R. Sociedad,1 - 2,Valencia,Ganó,1,2,1
+2010-12-13,Valencia,3 - 3,Osasuna,Empató,3,3,0
+2010-12-04,Real Madrid,2 - 0,Valencia,Perdió,2,0,2
+2010-11-28,Valencia,2 - 1,Almería,Ganó,2,1,1
+2010-11-20,Villarreal,1 - 1,Valencia,Empató,1,1,0
+2010-11-14,Valencia,2 - 0,Getafe,Ganó,2,0,2
+2010-11-08,Sevilla,2 - 0,Valencia,Perdió,2,0,2
+2010-10-30,Valencia,1 - 1,Real Zaragoza,Empató,1,1,0
+2010-10-23,Valencia,1 - 2,Mallorca,Perdió,1,2,1
+2010-10-16,Barcelona,2 - 1,Valencia,Perdió,2,1,1
+2010-10-02,Valencia,2 - 1,Athletic,Ganó,2,1,1
+2010-09-25,Real Sporting,0 - 2,Valencia,Ganó,0,2,2
+2010-09-22,Valencia,1 - 1,Atlético,Empató,1,1,0
+2010-09-19,Hércules,1 - 2,Valencia,Ganó,1,2,1
+2010-09-11,Valencia,1 - 0,Racing,Ganó,1,0,1
+2010-08-28,Málaga,1 - 3,Valencia,Ganó,1,3,2
+2010-05-16,Valencia,1 - 0,Tenerife,Ganó,1,0,1
+2010-05-08,Villarreal,2 - 0,Valencia,Perdió,2,0,2
+2010-05-04,Valencia,3 - 1,Xerez CD,Ganó,3,1,2
+2010-05-01,Espanyol,0 - 2,Valencia,Ganó,0,2,2
+2010-04-24,Valencia,1 - 0,RC Deportivo,Ganó,1,0,1
+2010-04-18,Real Madrid,2 - 0,Valencia,Perdió,2,0,2
+2010-04-15,Valencia,2 - 0,Athletic,Ganó,2,0,2
+2010-04-11,Mallorca,3 - 2,Valencia,Perdió,3,2,1
+2010-04-04,Valencia,3 - 0,Osasuna,Ganó,3,0,3
+2010-03-27,Real Zaragoza,3 - 0,Valencia,Perdió,3,0,3
+2010-03-24,Valencia,1 - 0,Málaga,Ganó,1,0,1
+2010-03-21,Valencia,2 - 0,Almería,Ganó,2,0,2
+2010-03-14,Barcelona,3 - 0,Valencia,Perdió,3,0,3
+2010-03-08,Valencia,0 - 0,Racing,Empató,0,0,0
+2010-02-28,Atlético,4 - 1,Valencia,Perdió,4,1,3
+2010-02-22,Valencia,2 - 1,Getafe,Ganó,2,1,1
+2010-02-13,Real Sporting,1 - 1,Valencia,Empató,1,1,0
+2010-02-06,Valencia,2 - 0,Real Valladolid,Ganó,2,0,2
+2010-01-31,Sevilla,2 - 1,Valencia,Perdió,2,1,1
+2010-01-24,Tenerife,0 - 0,Valencia,Empató,0,0,0
+2010-01-17,Valencia,4 - 1,Villarreal,Ganó,4,1,3
+2010-01-10,Xerez CD,1 - 3,Valencia,Ganó,1,3,2
+2010-01-02,Valencia,1 - 0,Espanyol,Ganó,1,0,1
+2009-12-20,RC Deportivo,0 - 0,Valencia,Empató,0,0,0
+2009-12-12,Valencia,2 - 3,Real Madrid,Perdió,2,3,1
+2009-12-06,Athletic,1 - 2,Valencia,Ganó,1,2,1
+2009-11-28,Valencia,1 - 1,Mallorca,Empató,1,1,0
+2009-11-22,Osasuna,1 - 3,Valencia,Ganó,1,3,2
+2009-11-08,Valencia,3 - 1,Real Zaragoza,Ganó,3,1,2
+2009-11-01,Málaga,0 - 1,Valencia,Ganó,0,1,1
+2009-10-25,Almería,0 - 3,Valencia,Ganó,0,3,3
+2009-10-17,Valencia,0 - 0,Barcelona,Empató,0,0,0
+2009-10-04,Racing,0 - 1,Valencia,Ganó,0,1,1
+2009-09-26,Valencia,2 - 2,Atlético,Empató,2,2,0
+2009-09-23,Getafe,3 - 1,Valencia,Perdió,3,1,2
+2009-09-20,Valencia,2 - 2,Real Sporting,Empató,2,2,0
+2009-09-13,Real Valladolid,2 - 4,Valencia,Ganó,2,4,2
+2009-08-30,Valencia,2 - 0,Sevilla,Ganó,2,0,2
+2009-05-30,Valencia,2 - 0,Athletic,Ganó,2,0,2
+2009-05-23,Villarreal,3 - 1,Valencia,Perdió,3,1,2
+2009-05-17,Atlético,1 - 0,Valencia,Perdió,1,0,1
+2009-05-09,Valencia,3 - 0,Real Madrid,Ganó,3,0,3
+2009-05-03,Espanyol,3 - 0,Valencia,Perdió,3,0,3
+2009-04-25,Valencia,2 - 2,Barcelona,Empató,2,2,0
+2009-04-22,Real Betis,1 - 2,Valencia,Ganó,1,2,1
+2009-04-19,Valencia,3 - 1,Sevilla,Ganó,3,1,2
+2009-04-12,Real Sporting,2 - 3,Valencia,Ganó,2,3,1
+2009-04-05,Valencia,4 - 1,Getafe,Ganó,4,1,3
+2009-03-22,Racing,0 - 1,Valencia,Ganó,0,1,1
+2009-03-14,Valencia,1 - 1,Recreativo,Empató,1,1,0
+2009-03-08,Numancia,2 - 1,Valencia,Perdió,2,1,1
+2009-03-01,Valencia,1 - 2,Real Valladolid,Perdió,1,2,1
+2009-02-22,RC Deportivo,1 - 1,Valencia,Empató,1,1,0
+2009-02-14,Valencia,1 - 1,Málaga,Empató,1,1,0
+2009-02-08,Osasuna,1 - 0,Valencia,Perdió,1,0,1
+2009-02-01,Valencia,3 - 2,Almería,Ganó,3,2,1
+2009-01-25,Mallorca,3 - 1,Valencia,Perdió,3,1,2
+2009-01-18,Athletic,3 - 2,Valencia,Perdió,3,2,1
+2009-01-10,Valencia,3 - 3,Villarreal,Empató,3,3,0
+2009-01-03,Valencia,3 - 1,Atlético,Ganó,3,1,2
+2008-12-20,Real Madrid,1 - 0,Valencia,Perdió,1,0,1
+2008-12-13,Valencia,2 - 1,Espanyol,Ganó,2,1,1
+2008-12-06,Barcelona,4 - 0,Valencia,Perdió,4,0,4
+2008-11-30,Valencia,3 - 2,Real Betis,Ganó,3,2,1
+2008-11-22,Sevilla,0 - 0,Valencia,Empató,0,0,0
+2008-11-15,Valencia,2 - 3,Real Sporting,Perdió,2,3,1
+2008-11-09,Getafe,0 - 3,Valencia,Ganó,0,3,3
+2008-11-01,Valencia,2 - 4,Racing,Perdió,2,4,2
+2008-10-26,Recreativo,1 - 1,Valencia,Empató,1,1,0
+2008-10-19,Valencia,4 - 0,Numancia,Ganó,4,0,4
+2008-10-05,Real Valladolid,0 - 1,Valencia,Ganó,0,1,1
+2008-09-28,Valencia,4 - 2,RC Deportivo,Ganó,4,2,2
+2008-09-25,Málaga,0 - 2,Valencia,Ganó,0,2,2
+2008-09-21,Valencia,1 - 0,Osasuna,Ganó,1,0,1
+2008-09-14,Almería,2 - 2,Valencia,Empató,2,2,0
+2008-08-30,Valencia,3 - 0,Mallorca,Ganó,3,0,3
+2008-05-18,Valencia,3 - 1,Atlético,Ganó,3,1,2
+2008-05-11,Levante,1 - 5,Valencia,Ganó,1,5,4
+2008-05-07,Valencia,1 - 0,Real Zaragoza,Ganó,1,0,1
+2008-05-04,Barcelona,6 - 0,Valencia,Perdió,6,0,6
+2008-04-27,Valencia,3 - 0,Osasuna,Ganó,3,0,3
+2008-04-20,Athletic,5 - 1,Valencia,Perdió,5,1,4
+2008-04-12,Valencia,1 - 2,Racing,Perdió,1,2,1
+2008-04-06,Real Murcia,1 - 0,Valencia,Perdió,1,0,1
+2008-03-30,Valencia,0 - 3,Mallorca,Perdió,0,3,3
+2008-03-23,Real Madrid,2 - 3,Valencia,Ganó,2,3,1
+2008-03-15,Valencia,1 - 2,Sevilla,Perdió,1,2,1
+2008-03-09,Valencia,2 - 2,RC Deportivo,Empató,2,2,0
+2008-03-01,Espanyol,2 - 0,Valencia,Perdió,2,0,2
+2008-02-23,Valencia,1 - 1,Recreativo,Empató,1,1,0
+2008-02-17,Getafe,0 - 0,Valencia,Empató,0,0,0
+2008-02-10,Valencia,3 - 1,Real Betis,Ganó,3,1,2
+2008-02-03,Real Valladolid,0 - 2,Valencia,Ganó,0,2,2
+2008-01-27,Valencia,0 - 1,Almería,Perdió,0,1,1
+2008-01-19,Villarreal,3 - 0,Valencia,Perdió,3,0,3
+2008-01-13,Atlético,1 - 0,Valencia,Perdió,1,0,1
+2008-01-06,Valencia,0 - 0,Levante,Empató,0,0,0
+2007-12-22,Real Zaragoza,2 - 2,Valencia,Empató,2,2,0
+2007-12-15,Valencia,0 - 3,Barcelona,Perdió,0,3,3
+2007-12-08,Osasuna,0 - 0,Valencia,Empató,0,0,0
+2007-12-02,Valencia,0 - 3,Athletic,Perdió,0,3,3
+2007-11-25,Racing,1 - 0,Valencia,Perdió,1,0,1
+2007-11-10,Valencia,3 - 0,Real Murcia,Ganó,3,0,3
+2007-11-03,Mallorca,0 - 2,Valencia,Ganó,0,2,2
+2007-10-31,Valencia,1 - 5,Real Madrid,Perdió,1,5,4
+2007-10-28,Sevilla,3 - 0,Valencia,Perdió,3,0,3
+2007-10-20,RC Deportivo,2 - 4,Valencia,Ganó,2,4,2
+2007-10-06,Valencia,1 - 2,Espanyol,Perdió,1,2,1
+2007-09-30,Recreativo,0 - 1,Valencia,Ganó,0,1,1
+2007-09-26,Valencia,2 - 1,Getafe,Ganó,2,1,1
+2007-09-23,Real Betis,1 - 2,Valencia,Ganó,1,2,1
+2007-09-15,Valencia,2 - 1,Real Valladolid,Ganó,2,1,1
+2007-09-02,Almería,1 - 2,Valencia,Ganó,1,2,1
+2007-08-26,Valencia,0 - 3,Villarreal,Perdió,0,3,3
+2007-06-17,Valencia,3 - 3,R. Sociedad,Empató,3,3,0
+2007-06-09,Levante,4 - 2,Valencia,Perdió,4,2,2
+2007-05-26,Valencia,2 - 3,Villarreal,Perdió,2,3,1
+2007-05-19,Mallorca,0 - 1,Valencia,Ganó,0,1,1
+2007-05-13,Valencia,2 - 0,Real Zaragoza,Ganó,2,0,2
+2007-05-05,RC Deportivo,1 - 2,Valencia,Ganó,1,2,1
+2007-04-28,Valencia,2 - 0,Recreativo,Ganó,2,0,2
+2007-04-21,Real Madrid,2 - 1,Valencia,Perdió,2,1,1
+2007-04-15,Valencia,2 - 0,Sevilla,Ganó,2,0,2
+2007-04-07,Athletic,1 - 0,Valencia,Perdió,1,0,1
+2007-03-31,Valencia,3 - 2,Espanyol,Ganó,3,2,1
+2007-03-17,Valencia,0 - 2,Racing,Perdió,0,2,2
+2007-03-11,Osasuna,1 - 1,Valencia,Empató,1,1,0
+2007-03-03,Valencia,1 - 0,Celta,Ganó,1,0,1
+2007-02-25,Gimnàstic,1 - 1,Valencia,Empató,1,1,0
+2007-02-18,Valencia,2 - 1,Barcelona,Ganó,2,1,1
+2007-02-11,Getafe,3 - 0,Valencia,Perdió,3,0,3
+2007-02-03,Valencia,3 - 1,Atlético,Ganó,3,1,2
+2007-01-28,Real Betis,2 - 1,Valencia,Perdió,2,1,1
+2007-01-21,R. Sociedad,0 - 1,Valencia,Ganó,0,1,1
+2007-01-13,Valencia,3 - 0,Levante,Ganó,3,0,3
+2007-01-07,Villarreal,0 - 1,Valencia,Ganó,0,1,1
+2006-12-19,Valencia,3 - 1,Mallorca,Ganó,3,1,2
+2006-12-16,Real Zaragoza,0 - 1,Valencia,Ganó,0,1,1
+2006-12-10,Valencia,4 - 0,RC Deportivo,Ganó,4,0,4
+2006-12-02,Recreativo,2 - 0,Valencia,Perdió,2,0,2
+2006-11-26,Valencia,0 - 1,Real Madrid,Perdió,0,1,1
+2006-11-18,Sevilla,3 - 0,Valencia,Perdió,3,0,3
+2006-11-11,Valencia,1 - 1,Athletic,Empató,1,1,0
+2006-11-05,Espanyol,1 - 1,Valencia,Empató,1,1,0
+2006-10-28,Racing,1 - 0,Valencia,Perdió,1,0,1
+2006-10-22,Valencia,1 - 0,Osasuna,Ganó,1,0,1
+2006-10-15,Celta,3 - 2,Valencia,Perdió,3,2,1
+2006-10-01,Valencia,4 - 0,Gimnàstic,Ganó,4,0,4
+2006-09-24,Barcelona,1 - 1,Valencia,Empató,1,1,0
+2006-09-17,Valencia,2 - 0,Getafe,Ganó,2,0,2
+2006-09-09,Atlético,0 - 1,Valencia,Ganó,0,1,1
+2006-08-26,Valencia,2 - 1,Real Betis,Ganó,2,1,1
+2006-05-16,Osasuna,2 - 1,Valencia,Perdió,2,1,1
+2006-05-06,Valencia,1 - 1,Atlético,Empató,1,1,0
+2006-05-03,Mallorca,2 - 1,Valencia,Perdió,2,1,1
+2006-04-30,Valencia,3 - 0,Deportivo Alavés,Ganó,3,0,3
+2006-04-23,Athletic,0 - 3,Valencia,Ganó,0,3,3
+2006-04-16,Valencia,4 - 0,Espanyol,Ganó,4,0,4
+2006-04-08,Celta,0 - 1,Valencia,Ganó,0,1,1
+2006-04-02,Valencia,5 - 3,Cádiz,Ganó,5,3,2
+2006-03-26,Sevilla,1 - 0,Valencia,Perdió,1,0,1
+2006-03-22,Valencia,1 - 1,Villarreal,Empató,1,1,0
+2006-03-19,Racing,2 - 1,Valencia,Perdió,2,1,1
+2006-03-11,Valencia,0 - 0,Real Madrid,Empató,0,0,0
+2006-03-05,Málaga,0 - 0,Valencia,Empató,0,0,0
+2006-02-26,Valencia,1 - 1,Getafe,Empató,1,1,0
+2006-02-19,R. Sociedad,1 - 2,Valencia,Ganó,1,2,1
+2006-02-12,Valencia,1 - 0,Barcelona,Ganó,1,0,1
+2006-02-04,RC Deportivo,0 - 1,Valencia,Ganó,0,1,1
+2006-01-29,Valencia,2 - 2,Real Zaragoza,Empató,2,2,0
+2006-01-22,Real Betis,0 - 2,Valencia,Ganó,0,2,2
+2006-01-14,Valencia,2 - 0,Osasuna,Ganó,2,0,2
+2006-01-08,Atlético,0 - 0,Valencia,Empató,0,0,0
+2005-12-21,Valencia,3 - 0,Mallorca,Ganó,3,0,3
+2005-12-18,Deportivo Alavés,0 - 1,Valencia,Ganó,0,1,1
+2005-12-10,Valencia,1 - 1,Athletic,Empató,1,1,0
+2005-12-04,Espanyol,1 - 3,Valencia,Ganó,1,3,2
+2005-11-26,Valencia,2 - 0,Celta,Ganó,2,0,2
+2005-11-20,Cádiz,0 - 1,Valencia,Ganó,0,1,1
+2005-11-05,Villarreal,1 - 0,Valencia,Perdió,1,0,1
+2005-10-30,Valencia,1 - 1,Racing,Empató,1,1,0
+2005-10-27,Valencia,0 - 2,Sevilla,Perdió,0,2,2
+2005-10-23,Real Madrid,1 - 2,Valencia,Ganó,1,2,1
+2005-10-16,Valencia,2 - 1,Málaga,Ganó,2,1,1
+2005-10-01,Getafe,2 - 1,Valencia,Perdió,2,1,1
+2005-09-24,Valencia,2 - 1,R. Sociedad,Ganó,2,1,1
+2005-09-21,Barcelona,2 - 2,Valencia,Empató,2,2,0
+2005-09-17,Valencia,2 - 2,RC Deportivo,Empató,2,2,0
+2005-09-11,Real Zaragoza,2 - 2,Valencia,Empató,2,2,0
+2005-08-27,Valencia,1 - 0,Real Betis,Ganó,1,0,1
+2005-05-29,Valencia,1 - 0,Osasuna,Ganó,1,0,1
+2005-05-22,Levante,0 - 0,Valencia,Empató,0,0,0
+2005-05-15,Espanyol,2 - 2,Valencia,Empató,2,2,0
+2005-05-08,Valencia,0 - 2,Barcelona,Perdió,0,2,2
+2005-04-30,Numancia,1 - 1,Valencia,Empató,1,1,0
+2005-04-24,Valencia,2 - 0,Albacete,Ganó,2,0,2
+2005-04-17,Mallorca,0 - 0,Valencia,Empató,0,0,0
+2005-04-10,Valencia,2 - 2,Málaga,Empató,2,2,0
+2005-04-02,Real Zaragoza,2 - 2,Valencia,Empató,2,2,0
+2005-03-20,Valencia,3 - 1,Getafe,Ganó,3,1,2
+2005-03-13,Atlético,1 - 0,Valencia,Perdió,1,0,1
+2005-03-05,Valencia,1 - 1,Real Madrid,Empató,1,1,0
+2005-03-02,Sevilla,2 - 2,Valencia,Empató,2,2,0
+2005-02-27,Valencia,2 - 1,Real Betis,Ganó,2,1,1
+2005-02-20,Racing,1 - 0,Valencia,Perdió,1,0,1
+2005-02-12,Valencia,1 - 2,RC Deportivo,Perdió,1,2,1
+2005-02-05,R. Sociedad,3 - 3,Valencia,Empató,3,3,0
+2005-01-30,Valencia,2 - 2,Athletic,Empató,2,2,0
+2005-01-23,Villarreal,3 - 1,Valencia,Perdió,3,1,2
+2005-01-16,Osasuna,0 - 0,Valencia,Empató,0,0,0
+2005-01-08,Valencia,2 - 1,Levante,Ganó,2,1,1
+2004-12-22,Valencia,3 - 0,Espanyol,Ganó,3,0,3
+2004-12-18,Barcelona,1 - 1,Valencia,Empató,1,1,0
+2004-12-12,Valencia,1 - 0,Numancia,Ganó,1,0,1
+2004-12-04,Albacete,0 - 1,Valencia,Ganó,0,1,1
+2004-11-28,Valencia,2 - 0,Mallorca,Ganó,2,0,2
+2004-11-20,Málaga,0 - 2,Valencia,Ganó,0,2,2
+2004-11-13,Valencia,0 - 0,Real Zaragoza,Empató,0,0,0
+2004-11-07,Getafe,1 - 0,Valencia,Perdió,1,0,1
+2004-10-30,Valencia,1 - 1,Atlético,Empató,1,1,0
+2004-10-23,Real Madrid,1 - 0,Valencia,Perdió,1,0,1
+2004-10-17,Valencia,1 - 2,Sevilla,Perdió,1,2,1
+2004-10-02,Real Betis,1 - 1,Valencia,Empató,1,1,0
+2004-09-26,Valencia,2 - 0,Racing,Ganó,2,0,2
+2004-09-22,RC Deportivo,1 - 5,Valencia,Ganó,1,5,4
+2004-09-18,Valencia,3 - 1,R. Sociedad,Ganó,3,1,2
+2004-09-11,Athletic,2 - 2,Valencia,Empató,2,2,0
+2004-08-30,Valencia,2 - 1,Villarreal,Ganó,2,1,1
+2004-05-23,Valencia,0 - 1,Albacete,Perdió,0,1,1
+2004-05-14,Villarreal,2 - 1,Valencia,Perdió,2,1,1
+2004-05-09,Sevilla,0 - 2,Valencia,Ganó,0,2,2
+2004-05-02,Valencia,2 - 0,Real Betis,Ganó,2,0,2
+2004-04-25,Athletic,1 - 1,Valencia,Empató,1,1,0
+2004-04-18,Valencia,2 - 2,R. Sociedad,Empató,2,2,0
+2004-04-11,Real Zaragoza,0 - 1,Valencia,Ganó,0,1,1
+2004-04-04,Valencia,2 - 0,Real Murcia,Ganó,2,0,2
+2004-03-28,Racing,0 - 3,Valencia,Ganó,0,3,3
+2004-03-21,Valencia,5 - 1,Mallorca,Ganó,5,1,4
+2004-03-14,Celta,0 - 2,Valencia,Ganó,0,2,2
+2004-03-06,Valencia,3 - 0,RC Deportivo,Ganó,3,0,3
+2004-02-29,Espanyol,2 - 1,Valencia,Perdió,2,1,1
+2004-02-21,Valencia,0 - 1,Barcelona,Perdió,0,1,1
+2004-02-15,Real Madrid,1 - 1,Valencia,Empató,1,1,0
+2004-02-07,Valencia,3 - 0,Atlético,Ganó,3,0,3
+2004-01-31,Málaga,1 - 6,Valencia,Ganó,1,6,5
+2004-01-25,Valencia,0 - 1,Osasuna,Perdió,0,1,1
+2004-01-17,Real Valladolid,0 - 0,Valencia,Empató,0,0,0
+2004-01-10,Albacete,0 - 1,Valencia,Ganó,0,1,1
+2004-01-04,Valencia,4 - 2,Villarreal,Ganó,4,2,2
+2003-12-20,Valencia,1 - 0,Sevilla,Ganó,1,0,1
+2003-12-14,Real Betis,0 - 1,Valencia,Ganó,0,1,1
+2003-12-07,Valencia,2 - 1,Athletic,Ganó,2,1,1
+2003-12-02,R. Sociedad,0 - 0,Valencia,Empató,0,0,0
+2003-11-29,Valencia,3 - 2,Real Zaragoza,Ganó,3,2,1
+2003-11-23,Real Murcia,2 - 2,Valencia,Empató,2,2,0
+2003-11-09,Valencia,1 - 2,Racing,Perdió,1,2,1
+2003-11-02,Mallorca,0 - 5,Valencia,Ganó,0,5,5
+2003-10-29,Valencia,2 - 2,Celta,Empató,2,2,0
+2003-10-25,RC Deportivo,2 - 1,Valencia,Perdió,2,1,1
+2003-10-19,Valencia,4 - 0,Espanyol,Ganó,4,0,4
+2003-10-05,Barcelona,0 - 1,Valencia,Ganó,0,1,1
+2003-09-27,Valencia,2 - 0,Real Madrid,Ganó,2,0,2
+2003-09-20,Atlético,0 - 3,Valencia,Ganó,0,3,3
+2003-09-14,Valencia,1 - 0,Málaga,Ganó,1,0,1
+2003-09-02,Osasuna,0 - 1,Valencia,Ganó,0,1,1
+2003-08-30,Valencia,1 - 1,Real Valladolid,Empató,1,1,0
+2003-06-21,Sevilla,0 - 3,Valencia,Ganó,0,3,3
+2003-06-15,Valencia,1 - 3,Barcelona,Perdió,1,3,2
+2003-06-01,R. Sociedad,1 - 1,Valencia,Empató,1,1,0
+2003-05-24,Valencia,1 - 2,Real Madrid,Perdió,1,2,1
+2003-05-17,RC Deportivo,1 - 2,Valencia,Ganó,1,2,1
+2003-05-11,Valencia,1 - 2,Villarreal,Perdió,1,2,1
+2003-05-04,Racing,2 - 1,Valencia,Perdió,2,1,1
+2003-04-27,Valencia,3 - 0,Deportivo Alavés,Ganó,3,0,3
+2003-04-19,Real Valladolid,1 - 0,Valencia,Perdió,1,0,1
+2003-04-13,Valencia,1 - 0,Osasuna,Ganó,1,0,1
+2003-04-05,Real Betis,2 - 0,Valencia,Perdió,2,0,2
+2003-03-23,Valencia,1 - 1,Espanyol,Empató,1,1,0
+2003-03-16,Athletic,1 - 0,Valencia,Perdió,1,0,1
+2003-03-08,Valencia,0 - 1,Atlético,Perdió,0,1,1
+2003-03-02,Celta,1 - 1,Valencia,Empató,1,1,0
+2003-02-23,Rayo Vallecano,0 - 4,Valencia,Ganó,0,4,4
+2003-02-15,Valencia,2 - 0,Málaga,Ganó,2,0,2
+2003-02-09,Recreativo,1 - 1,Valencia,Empató,1,1,0
+2003-02-02,Valencia,1 - 0,Mallorca,Ganó,1,0,1
+2003-01-26,Valencia,1 - 0,Sevilla,Ganó,1,0,1
+2003-01-18,Barcelona,2 - 4,Valencia,Ganó,2,4,2
+2003-01-11,Valencia,2 - 2,R. Sociedad,Empató,2,2,0
+2003-01-05,Real Madrid,4 - 1,Valencia,Perdió,4,1,3
+2002-12-22,Valencia,0 - 1,RC Deportivo,Perdió,0,1,1
+2002-12-14,Villarreal,0 - 2,Valencia,Ganó,0,2,2
+2002-12-07,Valencia,2 - 0,Racing,Ganó,2,0,2
+2002-12-01,Deportivo Alavés,0 - 0,Valencia,Empató,0,0,0
+2002-11-24,Valencia,2 - 0,Real Valladolid,Ganó,2,0,2
+2002-11-17,Osasuna,1 - 0,Valencia,Perdió,1,0,1
+2002-11-09,Valencia,1 - 1,Real Betis,Empató,1,1,0
+2002-11-03,Espanyol,0 - 1,Valencia,Ganó,0,1,1
+2002-10-26,Valencia,5 - 1,Athletic,Ganó,5,1,4
+2002-10-19,Atlético,1 - 1,Valencia,Empató,1,1,0
+2002-10-06,Valencia,0 - 1,Celta,Perdió,0,1,1
+2002-09-29,Valencia,3 - 0,Rayo Vallecano,Ganó,3,0,3
+2002-09-22,Málaga,2 - 2,Valencia,Empató,2,2,0
+2002-09-14,Valencia,3 - 0,Recreativo,Ganó,3,0,3
+2002-09-01,Mallorca,0 - 2,Valencia,Ganó,0,2,2
+2002-05-11,Valencia,2 - 0,Real Betis,Ganó,2,0,2
+2002-05-05,Málaga,0 - 2,Valencia,Ganó,0,2,2
+2002-04-27,Valencia,2 - 1,Espanyol,Ganó,2,1,1
+2002-04-21,Valencia,1 - 0,RC Deportivo,Ganó,1,0,1
+2002-04-13,Mallorca,1 - 1,Valencia,Empató,1,1,0
+2002-04-07,Valencia,4 - 0,R. Sociedad,Ganó,4,0,4
+2002-03-30,Tenerife,0 - 1,Valencia,Ganó,0,1,1
+2002-03-24,Valencia,2 - 1,Osasuna,Ganó,2,1,1
+2002-03-17,Rayo Vallecano,2 - 1,Valencia,Perdió,2,1,1
+2002-03-10,Valencia,2 - 0,Sevilla,Ganó,2,0,2
+2002-03-03,Real Zaragoza,0 - 1,Valencia,Ganó,0,1,1
+2002-02-23,Valencia,2 - 0,Barcelona,Ganó,2,0,2
+2002-02-16,Villarreal,1 - 1,Valencia,Empató,1,1,0
+2002-02-09,Valencia,0 - 0,Celta,Empató,0,0,0
+2002-02-06,Deportivo Alavés,1 - 2,Valencia,Ganó,1,2,1
+2002-02-03,Valencia,2 - 1,Athletic,Ganó,2,1,1
+2002-01-26,Las Palmas,0 - 1,Valencia,Ganó,0,1,1
+2002-01-20,Valencia,1 - 2,Real Valladolid,Perdió,1,2,1
+2002-01-13,Real Madrid,1 - 0,Valencia,Perdió,1,0,1
+2002-01-06,Real Betis,1 - 3,Valencia,Ganó,1,3,2
+2001-12-22,Valencia,2 - 1,Málaga,Ganó,2,1,1
+2001-12-15,Espanyol,2 - 3,Valencia,Ganó,2,3,1
+2001-12-09,RC Deportivo,1 - 0,Valencia,Perdió,1,0,1
+2001-12-01,Valencia,1 - 1,Mallorca,Empató,1,1,0
+2001-11-25,R. Sociedad,2 - 0,Valencia,Perdió,2,0,2
+2001-11-18,Valencia,0 - 0,Tenerife,Empató,0,0,0
+2001-11-11,Osasuna,0 - 0,Valencia,Empató,0,0,0
+2001-11-04,Valencia,2 - 1,Rayo Vallecano,Ganó,2,1,1
+2001-10-28,Sevilla,1 - 1,Valencia,Empató,1,1,0
+2001-10-21,Valencia,2 - 0,Real Zaragoza,Ganó,2,0,2
+2001-10-14,Barcelona,2 - 2,Valencia,Empató,2,2,0
+2001-10-07,Valencia,1 - 0,Villarreal,Ganó,1,0,1
+2001-10-04,Celta,1 - 1,Valencia,Empató,1,1,0
+2001-09-30,Valencia,0 - 0,Deportivo Alavés,Empató,0,0,0
+2001-09-23,Athletic,2 - 2,Valencia,Empató,2,2,0
+2001-09-16,Valencia,1 - 0,Las Palmas,Ganó,1,0,1
+2001-09-09,Real Valladolid,1 - 1,Valencia,Empató,1,1,0
+2001-08-25,Valencia,1 - 0,Real Madrid,Ganó,1,0,1
+2001-06-17,Barcelona,3 - 2,Valencia,Perdió,3,2,1
+2001-06-10,Valencia,0 - 1,RC Deportivo,Perdió,0,1,1
+2001-05-27,Racing,1 - 1,Valencia,Empató,1,1,0
+2001-05-18,Valencia,1 - 0,Athletic,Ganó,1,0,1
+2001-05-13,Málaga,3 - 0,Valencia,Perdió,3,0,3
+2001-05-05,R. Sociedad,1 - 2,Valencia,Ganó,1,2,1
+2001-04-28,Valencia,1 - 0,Real Valladolid,Ganó,1,0,1
+2001-04-22,Real Oviedo,0 - 0,Valencia,Empató,0,0,0
+2001-04-14,Valencia,1 - 2,Deportivo Alavés,Perdió,1,2,1
+2001-04-07,Rayo Vallecano,1 - 4,Valencia,Ganó,1,4,3
+2001-03-31,Valencia,0 - 1,Espanyol,Perdió,0,1,1
+2001-03-18,Celta,3 - 2,Valencia,Perdió,3,2,1
+2001-03-10,Valencia,1 - 0,Osasuna,Ganó,1,0,1
+2001-03-03,Real Zaragoza,1 - 1,Valencia,Empató,1,1,0
+2001-02-25,Valencia,3 - 1,Villarreal,Ganó,3,1,2
+2001-02-17,Las Palmas,0 - 2,Valencia,Ganó,0,2,2
+2001-02-10,Valencia,3 - 0,Numancia,Ganó,3,0,3
+2001-02-04,Mallorca,2 - 2,Valencia,Empató,2,2,0
+2001-01-28,Valencia,0 - 1,Real Madrid,Perdió,0,1,1
+2001-01-20,Valencia,0 - 1,Barcelona,Perdió,0,1,1
+2001-01-13,RC Deportivo,2 - 0,Valencia,Perdió,2,0,2
+2001-01-07,Valencia,1 - 0,Racing,Ganó,1,0,1
+2000-12-20,Athletic,1 - 1,Valencia,Empató,1,1,0
+2000-12-17,Valencia,2 - 0,Málaga,Ganó,2,0,2
+2000-12-09,Valencia,2 - 0,R. Sociedad,Ganó,2,0,2
+2000-12-02,Real Valladolid,0 - 0,Valencia,Empató,0,0,0
+2000-11-26,Valencia,2 - 0,Real Oviedo,Ganó,2,0,2
+2000-11-18,Deportivo Alavés,1 - 1,Valencia,Empató,1,1,0
+2000-11-12,Valencia,2 - 2,Rayo Vallecano,Empató,2,2,0
+2000-11-04,Espanyol,1 - 0,Valencia,Perdió,1,0,1
+2000-11-01,Valencia,1 - 0,Celta,Ganó,1,0,1
+2000-10-29,Osasuna,1 - 2,Valencia,Ganó,1,2,1
+2000-10-21,Valencia,1 - 0,Real Zaragoza,Ganó,1,0,1
+2000-10-14,Villarreal,1 - 1,Valencia,Empató,1,1,0
+2000-10-01,Valencia,5 - 1,Las Palmas,Ganó,5,1,4
+2000-09-24,Numancia,0 - 3,Valencia,Ganó,0,3,3
+2000-09-16,Valencia,4 - 0,Mallorca,Ganó,4,0,4
+2000-09-09,Real Madrid,2 - 1,Valencia,Perdió,2,1,1
